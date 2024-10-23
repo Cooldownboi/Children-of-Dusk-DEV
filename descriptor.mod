@@ -7,4 +7,6 @@ tags={
 	"Events"
 }
 name="Children of Dusk Mod"
+replace_path="common/bookmarks"
+replace_path="gfx/loadingscreens"
 supported_version="1.14.*"
