@@ -7,4 +7,4 @@ tags={
 	"Events"
 }
 name="Children of Dusk Mod"
-supported_version="1.14.7"
+supported_version="1.14.*"
