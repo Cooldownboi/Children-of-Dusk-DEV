@@ -1,0 +1,21 @@
+state={
+	id=984
+	name="STATE_984"
+	provinces={
+		641 817 3646 3650 6639 6668 9590
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			641 1
+		}
+	}
+
+	manpower=468000
+	local_supplies=0.000
+	state_category = rural
+}

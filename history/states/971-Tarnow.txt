@@ -1,0 +1,24 @@
+state={
+	id=971
+	name="STATE_971"
+	provinces={
+		442 466 3410 3434 6499 6522 9494 11507
+	}
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = POL
+
+		victory_points = {
+			442 3
+		}
+		victory_points = {
+			9494 1
+		}
+	}
+
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = pastoral
+}

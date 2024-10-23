@@ -1,0 +1,35 @@
+
+state={
+	id=16
+	name="STATE_16"
+	manpower = 12979000
+	
+	state_category = megalopolis
+	
+
+	history={
+		owner = FRA
+		victory_points = {
+			11506 40 
+		}
+		victory_points = {
+			9523 3
+		}
+		victory_points = {
+			9534 2
+		}
+		victory_points = {
+			13363 5
+		}
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		9534 9523 11506 13363 13364 13365
+	}
+
+	local_supplies=0.0 
+}

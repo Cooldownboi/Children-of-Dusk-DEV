@@ -1,0 +1,21 @@
+state={
+	id=980
+	name="STATE_980"
+	provinces={
+		521 11516
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			11516 5 
+		}
+	}
+
+	manpower=713000
+	local_supplies=0.000
+	state_category = town	
+}

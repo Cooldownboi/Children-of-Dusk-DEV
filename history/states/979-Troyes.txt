@@ -1,0 +1,24 @@
+state={
+	id=979
+	name="STATE_979"
+	provinces={
+		551 3506 3533 6531 6949 9490 11732 13367 13368
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			9490 5 
+		}
+		victory_points = {
+			6531 1
+		}
+	}
+
+	manpower=1462000
+	local_supplies=0.000
+	state_category = town	
+}

@@ -1,0 +1,19 @@
+state={
+	id=981
+	name="STATE_981"
+	provinces={
+		698 6698 11488 11642
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 6698 1 }
+	}
+
+	manpower=498000
+	local_supplies=0.000
+	state_category = rural
+}
