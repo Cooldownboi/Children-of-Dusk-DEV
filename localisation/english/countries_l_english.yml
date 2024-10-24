@@ -59,4 +59,6 @@
 #German regional tags to be made later
 
 #Czechia
- #CZE:
+ CZE:0 "Czechia"
+ CZE_DEF:0 "Czechia"
+ CZE_ADJ:0 "Czech"

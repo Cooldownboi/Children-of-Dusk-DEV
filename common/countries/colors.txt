@@ -43,3 +43,7 @@ GER = {
 	color = rgb { 47 61 61 }
 	color_ui = rgb { 47 61 61 }
 }
+CZE = {
+	color = rgb { 47 61 61 }
+	color_ui = rgb { 47 61 61 }
+}
