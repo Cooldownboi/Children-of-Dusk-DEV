@@ -1,65 +1,59 @@
 ﻿l_english: 
- GER:0 "Union of Germany"
- GER_DEF:0 "the Union of Germany"
- SOV:0 "Eurasian Union"
- SOV_DEF:0 "the Eurasian Union"
- POL:0 "Polish State"
- POL_DEF:0 "the Polish State"
- CZE:0 "Czechian State"
- CZE_DEF:0 "the Czechian State"
- DEN:0 "Denmark"
- DEN_DEF:0 "Denmark"
- FIN:0 "Finland"
- FIN_DEF:0 "Finland"
- SWE:0 "Sweden"
- SWE_DEF:0 "Sweden"
- NOR:0 "Norway"
- NOR_DEF:0 "Norway"
- HOL:0 "Netherlands"
- HOL_DEF:0 "the Netherlands"
+
+#France
  FRA:0 "Greater France"
  FRA_DEF:0 "the Greater France"
- SWI:0 "Swiss Bunker State"
- SWI_DEF:0 "the Swiss Bunker State"
+ FRA_ADJ:0 "French"
+#French regional tags to be made later
+
+#Netherlands
+ HOL:0 "Netherlands"
+ HOL_DEF:0 "the Netherlands"
+ HOL_ADJ:0 "Holland"
+
+#Britain
  ENG:0 "British Republic"
  ENG_DEF:0 "the British Republic"
- IRE:0 "Ireland"
- IRE_DEF:0 "Ireland"
- HUN:0 "Hungary"
- HUN_DEF:0 "Hungary"
- ROM:0 "Romania"
- ROM_DEF:0 "Romania"
- SLV:0 "Slovenia"
- SLV_DEF:0 "Slovenia"
- CRO:0 "Croatia-Bosnia"
- CRO_DEF:0 "the Croatia-Bosnia"
- YUG:0 "Yugoslavia"
- YUG_DEF:0 "Yugoslavia"
- BUL:0 "Bulgaria"
- BUL_DEF:0 "the Bulgaria"
- ALB:0 "Albania"
- ALB_DEF:0 "Albania"
- LBV:0 "Padania"
- LBV_DEF:0 "the Padania"
- PAP:0 "State of God"
- PAP_DEF:0 "the_State of God"
- TTS:0 "Italian Commonwealth"
- TTS_DEF:0 "the Italian Commonwealth"
- ITA:0 "Italian Republic"
- ITA_DEF:0 "the Italian Republic"
- NAV:0 "Basque State"
- NAV_DEF:0 "the Basque State"
- SPR:0 "Spain"
- SPR_DEF:0 "Spain"
- SPA:0 "Spanish State"
- SPA_DEF:0 "the Spanish State"
- POR:0 "Portugal"
- POR_DEF:0 "Portugal"
- MLT:0 "Malta"
- MLT_DEF:0 "Malta"
- MON:0 "Mongolian Buffer State"
- MON_DEF:0 "the Mongolian Buffer State"
- PRC:0 "People's Republic of China"
- PRC_DEF:0 "the People's Republic of China"
- KOR:0 "Pyongist State"
- KOR_DEF:0 "the Pyongist State"
+ ENG_ADJ:0 "British"
+#Cornwall, Wales, Scotland tags to be made later
+
+#Ireland
+ IRE:0 "Irish Republic"
+ IRE_DEF:0 "the Irish Republic"
+ IRE_ADJ:0 "Irish"
+
+#Iceland
+ ICE:0 "Iceland"
+ ICE_DEF:0 "Iceland"
+ ICE_ADJ:0 "Icelandish"
+
+#Norway
+ NOR:0 "Norway"
+ NOR_DEF:0 "Norway"
+ NOR_ADJ:0 "Norwegian"
+
+#Sweden
+ SWE:0 "Sweden"
+ SWE_DEF:0 "Sweden"
+ SWE_ADJ:0 "Swedish"
+
+#Finland
+ FIN:0 "Finland"
+ FIN_DEF:0 "Finland"
+ FIN_ADJ:0 "Finnish"
+
+#Denmark
+ DEN:0 "Denmark"
+ DEN_DEF:0 "Denmark"
+ DEN_ADJ:0 "Danish"
+
+#Fatalist Germany
+ FAT:0 "Frankfurt Closed Zone"
+ FAT_DEF:0 "the Frankfurt Closed Zone"
+ FAT_ADJ:0 "Fatalist"
+
+#Germany
+ GER:0 "Union of Germany"
+ GER_DEF:0 "the Union of Germany"
+ GER_ADJ:0 "German"
+#German regional tags to be made later
