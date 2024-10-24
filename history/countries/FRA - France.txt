@@ -177,11 +177,11 @@ set_politics = {
 }
 set_popularities = {
 	corporatocracy = 10
-	communist = 3
-	liberal = 3
+	communist = 10
+	liberal = 10
 	authortarian = 10
-	despotic = 71
-	divinic = 3
+	despotic = 50
+	divinic = 10
 }
 
 add_ideas = {

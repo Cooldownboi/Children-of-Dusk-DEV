@@ -23,7 +23,7 @@ ideologies = {
 			"FACTION_NAME_divinic_1"
 		}
 
-		color = { 231 255 13 }
+		color = { 206 183 68 }
 
 
 		can_host_government_in_exile = yes
@@ -61,7 +61,7 @@ ideologies = {
 			"FACTION_NAME_despotic_1"
 		}
 
-		color = { 79 79 79 }
+		color = { 35 36 43 }
 
 
 		can_host_government_in_exile = yes
@@ -93,7 +93,7 @@ ideologies = {
 			"FACTION_NAME_authortarian_1"
 		}
 
-		color = { 73 102 245 }
+		color = { 47 56 102 }
 
 
 		can_host_government_in_exile = yes
@@ -123,7 +123,7 @@ ideologies = {
 			"FACTION_NAME_liberal_1"
 		}
 
-		color = { 222 18 161 }
+		color = { 137 78 108 }
 
 
 		can_host_government_in_exile = yes
@@ -155,7 +155,7 @@ ideologies = {
 			"FACTION_NAME_communist_1"
 		}
 
-		color = { 138 0 0 }
+		color = { 117 43 43 }
 
 
 		can_host_government_in_exile = yes
@@ -181,7 +181,7 @@ ideologies = {
 			"FACTION_NAME_corporatocracy_1"
 		}
 
-		color = { 71 145 191 }
+		color = { 113 221 214 }
 
 
 		can_host_government_in_exile = yes

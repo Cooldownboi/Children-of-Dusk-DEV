@@ -1,5 +1,8 @@
 #reload countrycolors
-
+FRA = {
+	color = rgb { 107 120 186 }
+	color_ui = rgb { 107 120 186 }
+}
 GER = {
 	color = rgb { 65 102 102 }
 	color_ui = rgb { 65 102 102 }
@@ -31,10 +34,6 @@ SOV = {
 SWE = {
 	color = rgb { 100 150 183 }
 	color_ui = rgb { 100 150 183 }
-}
-FRA = {
-	color = rgb { 107 120 186 }
-	color_ui = rgb { 107 120 186 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
