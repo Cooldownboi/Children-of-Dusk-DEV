@@ -62,3 +62,13 @@
  CZE:0 "Czechia"
  CZE_DEF:0 "Czechia"
  CZE_ADJ:0 "Czech"
+
+#Poland
+ POL:0 "Poland"
+ POL_DEF:0 "Poland"
+ POL_ADJ:0 "Polish"
+
+#Eurasia
+ SOV:0 "Eurasian State"
+ SOV_DEF:0 "the Eurasian State"
+ SOV_ADJ:0 "Eurasian"
