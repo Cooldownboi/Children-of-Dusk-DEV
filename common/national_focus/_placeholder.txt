@@ -1,0 +1,11 @@
+﻿focus_tree = {
+	id = placeholder
+	
+	country = {
+		factor = 1000
+	}
+
+	initial_show_position = {
+		x = 0
+	}
+}

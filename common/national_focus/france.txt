@@ -5,7 +5,7 @@
 		factor = 0
 		
 		modifier = {
-			add = 100
+			add = 2049
 			tag = FRA
 		}
 	}
