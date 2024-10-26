@@ -1,5 +1,7 @@
 ﻿l_english: 
 
+###Europe
+
 #France
  FRA:0 "Greater France"
  FRA_DEF:0 "the Greater France"
@@ -58,6 +60,11 @@
  GER_ADJ:0 "German"
 #German regional tags to be made later
 
+#Switzerland
+ SWI:0 "Switzerland"
+ SWI_DEF:0 "Switzerland"
+ SWI_ADJ:0 "Swiss"
+
 #Czechia
  CZE:0 "Czechia"
  CZE_DEF:0 "Czechia"
@@ -68,8 +75,115 @@
  POL_DEF:0 "Poland"
  POL_ADJ:0 "Polish"
 
+#Hungary
+ HUN:0 "Hungary"
+ HUN_DEF:0 "Hungary"
+ HUN_ADJ:0 "Hungarian"
+ 
+#Slovakia
+ SLO:0 "Slovakia"
+ SLO_DEF:0 "Slovakia"
+ SLO_ADJ:0 "Slovakian"
+
+#Romania
+ ROM:0 "Romania"
+ ROM_DEF:0 "Romania"
+ ROM_ADJ:0 "Romanian"
+
+#Bulgaria
+ BUL:0 "Bulgaria"
+ BUL_DEF:0 "Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+
+#Slovenia
+ SLV:0 "Slovenia"
+ SLV_DEF:0 "Slovenia"
+ SLV_ADJ:0 "Slovenian"
+
+#Croatia
+ CRO:0 "Croatia"
+ CRO_DEF:0 "Croatia"
+ CRO_ADJ:0 "Croatian"
+
+#Bosnia
+
+#Serbia
+
+#Montenegro
+
+#Macedonia
+
+#Yugoslavia
+ YUG:0 "Yugoslavia"
+ YUG_DEF:0 "Yugoslavia"
+ YUG_ADJ:0 "Yugoslavian"
+
+#Albania
+ ALB:0 "Albania"
+ ALB_DEF:0 "Albania"
+ ALB_ADJ:0 "Albanian"
+
+#Greece
+ GRE:0 "Greece"
+ GRE_DEF:0 "Greece"
+ Gre_ADJ:0 "Greek"
+
+#Malta
+ MLT:0 "Malta"
+ MLT_DEF:0 "Malta"
+ MLT_ADJ:0 "Maltese"
+
+#Cyprus
+ CYP:0 "Cyprus"
+ CYP_DEF:0 "Cyprus"
+ CYP_ADJ:0 "Cypriot"
+
+#Padania
+ LBV:0 "Padania"
+ LBV_DEF:0 "Padania"
+ LBV_ADJ:0 "Padanian"
+
+#State of God
+ PAP:0 "State of God"
+ PAP_DEF:0 "the State of God"
+ PAP_ADJ:0 "Papal"
+
+#Italian Commonwealth
+ TTS:0 "Italian Commonwealth"
+ TTS_DEF:0 "the Italian Commonwealth"
+ TTS_ADJ:0 "Italian"
+
+#Italian Republic
+ ITA:0 "Italian Republic"
+ ITA_DEF:0 "the Italian Republic"
+ ITA_ADJ:0 "Italian"
+
+#Nationalist Spain
+ SPA:0 "Spanish State"
+ SPA_DEF:0 "the Spanish State"
+ SPA_ADJ:0 "Spanish"
+
+#Spanish Republic
+ SPR:0 "Spanish Republic"
+ SPR_DEF:0 "the Spanish Republic"
+ SPR_ADJ:0 "Spanish"
+
+#Basque
+ NAV:0 "Basque State"
+ NAV_DEF:0 "the Basque State"
+ NAV_ADJ:0 "Basque"
+
+#Catalonia etc...
+
+#Portugal
+ POR:0 "Portugal"
+ POR_DEF:0 "Portugal"
+ POR_ADJ:0 "Portugalian"
+
 #Eurasia
  SOV:0 "Eurasian State"
  SOV_DEF:0 "the Eurasian State"
  SOV_ADJ:0 "Eurasian"
 #Eurasian regional tags to be made later
+
+###Africa
