@@ -9,6 +9,7 @@ tags={
 name="Children of Dusk Mod"
 replace_path="common/bookmarks"
 replace_path="gfx/loadingscreens"
+replace_path="gfx/flags"
 replace_path="common/decisions"
 replace_path="common/decisions/categories"
 replace_path="history/countries"
