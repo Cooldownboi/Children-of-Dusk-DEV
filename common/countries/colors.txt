@@ -109,7 +109,7 @@ PAP = {
 }
 TTS = {
 	color = rgb { 114 36 36 }
-	color_ui = rgb { 114 36 36 }
+	color_ui = rgb { 114 36 36 } 
 }
 ITA = {
 	color = rgb { 94 135 75 }
