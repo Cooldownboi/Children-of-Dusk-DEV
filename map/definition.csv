@@ -13370,3 +13370,10 @@
 13368;193;75;75;land;false;plains;1
 13369;155;145;96;land;false;hills;1
 13370;38;150;116;land;false;forest;1
+13371;152;72;45;land;false;forest;5
+13372;99;255;200;land;false;forest;5
+13373;112;82;135;land;false;jungle;5
+13374;25;152;13;land;false;jungle;5
+13375;63;124;15;land;false;jungle;5
+13376;125;222;15;land;true;plains;5
+13377;100;114;67;land;true;plains;5

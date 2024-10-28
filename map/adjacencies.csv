@@ -217,4 +217,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13312;7982;sea;2919;-1;-1;-1;-1;;South Iran
 761;13315;sea;9092;-1;-1;-1;-1;;Ontario
 13196;13314;sea;9092;-1;-1;-1;-1;;Northern Quebec
+13376;13377;sea;5394;-1;-1;-1;-1;;Unguja-Pemba
+13376;2196;sea;5394;-1;-1;-1;-1;;Unguja-Dar es Salaam
+13377;8183;sea;5369;-1;-1;-1;-1;;Pemba-Tanga
 -1;-1;;-1;-1;-1;-1;-1;-1 

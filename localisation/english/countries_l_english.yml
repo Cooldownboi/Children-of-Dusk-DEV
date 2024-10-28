@@ -187,3 +187,24 @@
 #Eurasian regional tags to be made later
 
 ###Africa
+
+#East African Federation
+ EAF: "East African Federation"
+ EAF_DEF: "the East African Federation"
+ EAF_ADJ: "East African"
+
+#Lesotho
+ LES: "Lesotho"
+ LES_DEF: "Lesotho"
+ LES_ADJ: "Basotho"
+
+#Eswatini
+ ESW: "Eswatini"
+ ESW_DEF: "Eswatini"
+ ESW_ADJ: "Eswatinian"
+
+#Orientale Republic
+ ORR: "Orientale Republic"
+ ORR_DEF: "the Orientale Republic"
+ ORR_ADJ: "Orientale"
+#Just used Orientale as the ADJ, as I don't know what'd fit better

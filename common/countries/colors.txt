@@ -135,3 +135,19 @@ SOV = {
 	color = rgb { 42 53 117 }
 	color_ui = rgb { 42 53 117 }
 }
+LES = {
+	color = rgb { 121 78 34 }
+	color_ui = rgb { 162 104 76 }
+}
+ESW = {
+	color = rgb { 157 117 74 }
+	color_ui = rgb { 192 148 112 }
+}
+ORR = {
+	color = rgb { 0 183 130 }
+	color_ui = rgb { 30 200 160 }
+}
+EAF = {
+	color = rgb { 229 162 77 }
+	color_ui = rgb { 255 200 100 }
+}

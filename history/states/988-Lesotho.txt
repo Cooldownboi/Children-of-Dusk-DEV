@@ -1,0 +1,27 @@
+state = {
+	id = 988
+	name = STATE_988
+
+	manpower = 2210646 # Place holder population
+	state_category = pastoral
+
+	history = {
+		owner = LES
+		add_core_of = LES
+
+		victory_points = {
+			4556 2
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		4556
+	}
+
+	local_supplies = 0.5
+}

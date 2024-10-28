@@ -1,0 +1,21 @@
+state = {
+	id = 990
+	name = STATE_990
+
+	manpower = 15213800
+	state_category = pastoral
+
+	history = {
+		owner = EAF
+		add_core_of = EAF
+		add_core_of = COG
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 
+		4201 13176 13371 13372 13373
+	}
+}

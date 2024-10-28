@@ -1,0 +1,22 @@
+state = {
+	id = 991
+	name = STATE_991
+
+	manpower = 2856300 # Place holder pop, taken from Maniema
+	state_category = pastoral
+
+	history = {
+		owner = ORR
+		add_core_of = ORR
+		add_core_of = COG
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		1181 13374 13375
+	}
+}

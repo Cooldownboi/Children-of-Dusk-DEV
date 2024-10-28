@@ -1,0 +1,29 @@
+state = {
+	id = 994
+	name = STATE_994
+
+	manpower = 7205677
+	state_category = rural
+
+	history = {
+		owner = EAF
+		add_core_of = EAF
+		add_core_of = TZN
+
+		victory_points = {
+			10845 1
+		}
+		victory_points = {
+			12944 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		8182 8201 10845 12944 12967
+	}
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 989
+	name = STATE_989
+
+	manpower = 1236126
+	state_category = pastoral
+
+	history = {
+		owner = ESW
+		add_core_of = ESW
+
+		victory_points = {
+			7900 1
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		7900
+	}
+
+	local_supplies = 0.0
+}
