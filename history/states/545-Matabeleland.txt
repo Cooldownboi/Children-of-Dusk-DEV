@@ -1,0 +1,27 @@
+state = {
+	id = 545
+	name = STATE_545
+
+	manpower = 7223227
+	state_category = town
+
+	history = {
+		owner = ZIM
+		add_core_of = ZIM
+
+		victory_points = {
+			4851 2
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		1874 2151 4851 7842 13386
+	}
+
+	local_supplies = 2.0 
+}

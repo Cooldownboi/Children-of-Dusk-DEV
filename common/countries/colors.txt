@@ -151,3 +151,23 @@ EAF = {
 	color = rgb { 229 162 77 }
 	color_ui = rgb { 255 200 100 }
 }
+NML = {
+	color = rgb { 25 107 168 }
+	color_ui = rgb { 55 137 198 }
+}
+NAR = {
+	color = rgb { 239 217 208 }
+	color_ui = rgb { 255 245 230 }
+}
+SAF = {
+	color = rgb { 222 183 166 }
+	color_ui = rgb { 255 213 196 }
+}
+BOT = {
+	color = rgb { 136 208 255 }
+	color_ui = rgb { 166 240 255 }
+}
+ZIM = {
+	color = rgb { 182 255 237 }
+	color_ui = rgb { 212 255 255 }
+}

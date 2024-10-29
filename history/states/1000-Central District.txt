@@ -1,0 +1,25 @@
+state = {
+	id = 1000
+	name = STATE_1000
+
+	manpower = 948616
+	state_category = village
+	resources = {
+		chromium = 40
+	}
+
+	history = {
+		owner = BOT
+		add_core_of = BOT
+
+		victory_points = {
+			13385 2
+		}
+	}
+
+	provinces = {
+		10525 13383 13384 13385
+	}
+
+	local_supplies = 0.5
+}

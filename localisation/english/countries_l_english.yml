@@ -196,7 +196,7 @@
 #Lesotho
  LES: "Lesotho"
  LES_DEF: "Lesotho"
- LES_ADJ: "Basotho"
+ LES_ADJ: "Lasothan"
 
 #Eswatini
  ESW: "Eswatini"
@@ -208,3 +208,28 @@
  ORR_DEF: "the Orientale Republic"
  ORR_ADJ: "Orientale"
 #Just used Orientale as the ADJ, as I don't know what'd fit better
+
+#Namaland
+NML: "Namaland"
+NML_DEF: "Namaland"
+NML_ADJ: "Nama"
+
+#New Afrikaaner Republic
+NAR: "New Afrikaaner Republic"
+NAR_DEF: "the New Afrikaaner Republic"
+NAR_ADJ: "Afrikaaner"
+
+#South Africa
+SAF: "South Africa"
+SAF_DEF: "South Africa"
+SAF_ADJ: "South African"
+
+#Botswana
+BOT: "Botswana"
+BOT_DEF: "Botswana"
+BOT_ADJ: "Botswanan"
+
+#Zimbabwe
+ZIM: "Zimbabwe"
+ZIM_DEF: "Zimbabwe"
+ZIM_ADJ: "Zimbabwean"

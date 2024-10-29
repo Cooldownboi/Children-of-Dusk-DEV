@@ -1,0 +1,22 @@
+state = {
+	id = 997
+	name = STATE_997
+
+	manpower = 5000
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = NAR
+		add_core_of = NAR
+		add_core_of = NML
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13382
+	}
+}

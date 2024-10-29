@@ -1,23 +1,26 @@
-state={
-	id=894
-	name="STATE_894"
-	manpower = 69300
-	state_category = wasteland
+state = {
+	id = 894
+	name = "STATE_894"
 
-	history={
-		owner = NMB
+	manpower = 588464
+	state_category = rural
+
+	history = {
+		owner = NML
+		add_core_of = NML
+
+		victory_points = {
+			10957 1
+		}
+
 		buildings = {
 			infrastructure = 2
-
 		}
-		
-		add_core_of = NMB
-
 	}
-	provinces={
-		10957 10978 12921 
+
+	provinces = {
+		10957 13380 13381
 	}
 	
-	buildings_max_level_factor=1.000
-	local_supplies=0.000
+	local_supplies=0.0
 }

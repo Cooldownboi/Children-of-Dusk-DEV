@@ -1,0 +1,21 @@
+state = {
+	id = 996
+	name = STATE_996
+
+	manpower = 60000
+	state_category = wasteland
+
+	history = {
+		owner = BOT
+		add_core_of = BOT
+		add_core_of = NML
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13217
+	}
+}

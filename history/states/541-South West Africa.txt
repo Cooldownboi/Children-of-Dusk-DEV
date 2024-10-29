@@ -1,29 +1,31 @@
+state = {
+	id = 541
+	name = "STATE_541"
 
-state={
-	id=541
-	name="STATE_541"
-	manpower = 254100
-	state_category = pastoral
+	manpower = 784811
+	state_category = village
 
-	history={
-		owner = SAF
+	history = {
+		owner = NAR
+		add_core_of = NAR
+		add_core_of = NML
+
+		victory_points = {
+			4879 2
+		}
+
 		buildings = {
 			infrastructure = 2
-
+			industrial_complex = 1
+			2207 = {
+				naval_base = 1
+			}
 		}
-		victory_points = {
-			4879 1 
-		}
-		add_core_of = SAF
-		add_core_of = NMB
-
 	}
 
-	provinces={
-		2207 4879 7770 
+	provinces = {
+		2207 4879 13378 13379
 	}
-	
-	buildings_max_level_factor=1.000
-	
-	local_supplies=0.000
+		
+	local_supplies = 0.0
 }
