@@ -1,0 +1,27 @@
+state = {
+	id = 1003
+	name = STATE_1003
+	
+	manpower = 4334633
+	state_category = rural
+
+	history = {
+		owner = SOM
+		add_core_of = SOM
+		add_claim_by = IRS
+
+		victory_points = {
+			13389 1
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		1966 4909 10818 10891 13389
+	}
+}

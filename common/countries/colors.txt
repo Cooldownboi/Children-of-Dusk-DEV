@@ -171,3 +171,19 @@ ZIM = {
 	color = rgb { 182 255 237 }
 	color_ui = rgb { 212 255 255 }
 }
+SOM = {
+	color = rgb { 212 75 75 }
+	color_ui = rgb { 242 105 105 }
+}
+IRS = {
+	color = rgb { 135 135 135 }
+	color_ui = rgb { 135 135 135 }
+}
+SOD = {
+	color = rgb { 229 108 108 }
+	color_ui = rgb { 255 138 138 }
+}
+DJI = {
+	color = rgb { 164 74 56 }
+	color_ui = rgb { 194 104 86 }
+}

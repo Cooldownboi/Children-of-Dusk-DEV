@@ -233,3 +233,23 @@ BOT_ADJ: "Botswanan"
 ZIM: "Zimbabwe"
 ZIM_DEF: "Zimbabwe"
 ZIM_ADJ: "Zimbabwean"
+
+#Somalia
+SOM: "Somalia"
+SOM_DEF: "Somalia"
+SOM_ADJ: "Somali"
+
+#Islamic Republic of Somalia
+IRS: "Islamic Republic of Somalia"
+IRS_DEF: "the Islamic Republic of Somalia"
+IRS_ADJ: "Somali"
+
+#Somaliland
+SOD: "Somaliland"
+SOD_DEF: "Somaliland"
+SOD_ADJ: "Somali"
+
+#Djibouti
+DJI: "Djibouti"
+DJI_DEF: "Djibouti"
+DJI_ADJ: "Djiboutian"

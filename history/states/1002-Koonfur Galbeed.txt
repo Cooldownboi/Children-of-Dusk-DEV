@@ -1,0 +1,30 @@
+state = {
+	id = 1002
+	name = STATE_1002
+
+	manpower = 6387355
+	state_category = village
+
+	history = {
+		owner = IRS
+		add_core_of = IRS
+		add_claim_by = SOM
+
+		victory_points = {
+			10928 2
+		}
+		victory_points = {
+			2063 1
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		2063 8164 10928
+	}
+}
