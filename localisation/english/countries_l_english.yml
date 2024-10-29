@@ -181,9 +181,11 @@
  POR_ADJ:0 "Portugalian"
 
 #Eurasia
- SOV:0 "Eurasian State"
- SOV_DEF:0 "the Eurasian State"
+ SOV:0 "Eurasian Union"
+ SOV_DEF:0 "the Eurasian Union"
  SOV_ADJ:0 "Eurasian"
+ 
+ EurasiaPact:0 "Eurasia Pact"
 #Eurasian regional tags to be made later
 
 ###Africa
