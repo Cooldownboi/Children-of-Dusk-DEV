@@ -11,30 +11,30 @@ Code
 // --------------------------------------------------------------
 // ------------------    Light          -------------------------
 // --------------------------------------------------------------
-static const float NIGHT_AMBIENT_BOOST = 3.0f; // can just be baked into the below later ye?
+static const float NIGHT_AMBIENT_BOOST = 0.0f; // can just be baked into the below later ye?
 
 
-static const float3 DayAmbientMapPosX = float3(0.1, 0.1, 0.05);  // right
-static const float3 DayAmbientMapNegX = float3(0.15, 0.15, 0.15);  // left
-static const float3 DayAmbientMapPosY = float3(0.03, 0.03, 0.06);  // kills everything
-static const float3 DayAmbientMapNegY = float3(0.0, 0.0, 0.0);  // from under
-static const float3 DayAmbientMapPosZ = float3(0.0502, 0.05023, 0.1023);  // top
-static const float3 DayAmbientMapNegZ = float3(0.03, 0.033, 0.033);  // bottom
+static const float3 DayAmbientMapPosX = float3(0, 0, 0);  // right
+static const float3 DayAmbientMapNegX = float3(0, 0, 0);  // left
+static const float3 DayAmbientMapPosY = float3(0, 0, 0);  // kills everything
+static const float3 DayAmbientMapNegY = float3(0, 0, 0);  // from under
+static const float3 DayAmbientMapPosZ = float3(0, 0, 0);  // top
+static const float3 DayAmbientMapNegZ = float3(0, 0, 0);  // bottom
 
-static const float3 NightAmbientMapPosX = float3(0.2, 0.2, 0.2);  // right
-static const float3 NightAmbientMapNegX = float3(0.0, 0.0, 0.0);  // left
-static const float3 NightAmbientMapPosY = float3(0.01, 0.01, 0.01);  // kills everything
-static const float3 NightAmbientMapNegY = float3(0.0, 0.0, 0.1);  // from under
-static const float3 NightAmbientMapPosZ = float3(0.06, 0.1, 0.15);  // top
-static const float3 NightAmbientMapNegZ = float3(0.14, 0.14, 0.2);  // bottom
+static const float3 NightAmbientMapPosX = float3(0, 0, 0);  // right
+static const float3 NightAmbientMapNegX = float3(0, 0, 0);  // left
+static const float3 NightAmbientMapPosY = float3(0, 0, 0);  // kills everything
+static const float3 NightAmbientMapNegY = float3(0, 0, 0);  // from under
+static const float3 NightAmbientMapPosZ = float3(0, 0, 0);  // top
+static const float3 NightAmbientMapNegZ = float3(0, 0, 0);  // bottom
 
 // NOTE: regular unit ambient colors set from defines. this is night
-static const float3 NightAmbientPosX = float3(2.0, 2.0, 2.0);  // right
-static const float3 NightAmbientNegX = float3(0.2, 0.2, 0.2);  // left
-static const float3 NightAmbientPosY = float3(0.1, 0.1, 0.1);  // kills everything
-static const float3 NightAmbientNegY = float3(0.0, 0.0, 0.0);  // from under
-static const float3 NightAmbientPosZ = float3(3.0, 3.0, 3.0);  // top
-static const float3 NightAmbientNegZ = float3(0.8, 0.8, 0.8);  // bottom
+static const float3 NightAmbientPosX = float3(0, 0, 0);  // right
+static const float3 NightAmbientNegX = float3(0, 0, 0);  // left
+static const float3 NightAmbientPosY = float3(0, 0, 0);  // kills everything
+static const float3 NightAmbientNegY = float3(0, 0, 0);  // from under
+static const float3 NightAmbientPosZ = float3(0, 0, 0);  // top
+static const float3 NightAmbientNegZ = float3(0, 0, 0);  // bottom
 
 // --------------------------------------------------------------
 // ------------------    Specular       -------------------------
@@ -192,18 +192,19 @@ static const float  SHADOW_WEIGHT_TREE   		= 0.7f;
 // ------------------    GRADIENT BORDERS   ---------------------
 // --------------------------------------------------------------
 
-static const float GB_CAM_MIN = 100.0f;
+
+static const float GB_CAM_MIN = 900.0f;
 static const float GB_CAM_MAX = 350.0f;
-static const float GB_CAM_MAX_FILLING_CLAMP = 0.8f; // 0 to 1 value for clamping the fill when camera is at max distance
-static const float GB_THRESHOLD = 0.05f; // interpolation time
-static const float GB_THRESHOLD2 = 0.25f; // interpolation time
+static const float GB_CAM_MAX_FILLING_CLAMP = 1.0f; // 0 to 1 value for clamping the fill when camera is at max distance
+static const float GB_THRESHOLD = 0.45f; // interpolation time
+static const float GB_THRESHOLD2 = 0.45f; // interpolation time
 //static const float3 GB_OUTLINE_COLOR = float3( 0.0f, 0.0f, 0.0f );
 static const float GB_OUTLINE_CUTOFF_SEA = 0.990f; // Magic number to balance cutoff on edges without neighbor (over Sea)
 static const float GB_OPACITY_NEAR = 1.0f; // Transparency when camera is near
-static const float GB_OPACITY_FAR = 0.85f;  // Transparency when camera is far
+static const float GB_OPACITY_FAR = 1.0f;  // Transparency when camera is far
 static const float BORDER_NIGHT_DESATURATION_MAX = 0.2f; // how much border colors can get desaturated at night. 1.0f is full grey
-static const float BORDER_FOW_REMOVAL_FACTOR = .8f; // How much of the FOW that is removed from the borders. 1.0f is no FOW
-static const float BORDER_LIGHT_REMOVAL_FACTOR = 0.8f; // How much of the light calculations that are removed from the borders. 1.0f is no light
+static const float BORDER_FOW_REMOVAL_FACTOR = 1.0f; // How much of the FOW that is removed from the borders. 1.0f is no FOW
+static const float BORDER_LIGHT_REMOVAL_FACTOR = 1.0f; // How much of the light calculations that are removed from the borders. 1.0f is no light
 static const float GB_STRENGTH_CH1 = 1.0; // Opacity of bottom layer
 static const float GB_STRENGTH_CH2 = 1.0; // Opacity of top layer
 static const float GB_FIRST_LAYER_PRIORITY = 0.4; // Priority for first/second layer when both are active at the same pixel
