@@ -255,3 +255,10 @@ SOD_ADJ: "Somali"
 DJI: "Djibouti"
 DJI_DEF: "Djibouti"
 DJI_ADJ: "Djiboutian"
+
+###North America
+
+#United States
+USA: "United States of America"
+USA_DEF: "the United States of America"
+USA_ADJ: "American"

@@ -187,3 +187,7 @@ DJI = {
 	color = rgb { 164 74 56 }
 	color_ui = rgb { 194 104 86 }
 }
+USA = {
+	color = rgb { 92 201 201 }
+	color_ui = rgb { 92 201 201 }
+}
