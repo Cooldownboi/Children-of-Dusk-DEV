@@ -1,0 +1,27 @@
+
+music_station = "heavy_gen"
+
+music = {
+	song = "90industrial_whitebat"
+
+}
+
+music = {
+	song = "deadly_force_whitebat"
+
+}
+
+music = {
+	song = "proletariat_whitebat"
+
+}
+
+music = {
+	song = "viol"
+
+}
+
+music = {
+	song = "violence_whitebat"
+
+}

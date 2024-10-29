@@ -1,0 +1,23 @@
+music = {
+	name = "chernotrop"
+	file = "chernotrop.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "gde_nas_net"
+	file = "gde_nas_net.ogg"
+	volume = 0.5
+}
+
+music = {
+	name = "gorod_por_podoshvoi"
+	file = "gorod_por_podoshvoi.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "molchat_doma"
+	file = "molchat_doma.ogg"
+	volume = 0.7
+}

@@ -1,0 +1,38 @@
+
+# MAIN THEME
+music = {
+	name = "cod_theme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "90industrial_whitebat"
+	file = "90industrial_whitebat.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "deadly_force_whitebat"
+	file = "deadly_force_whitebat.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "proletariat_whitebat"
+	file = "proletariat_whitebat.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "viol"
+	file = "viol.ogg"
+	volume = 0.5
+}
+
+
+music = {
+	name = "violence_whitebat"
+	file = "violence_whitebat.ogg"
+	volume = 0.5
+}

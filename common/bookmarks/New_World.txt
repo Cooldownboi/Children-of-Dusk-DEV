@@ -60,12 +60,12 @@ bookmarks = {
 		}
 		
 		"---"={
-			history = "OTHER_New_World_DESC"
+			history = "OTHER_NEW_WORLD_DESC"
 		}
 		
 		"SPR"={
 			minor = yes
-			history = "SPR_GATHERING_STORM_DESC"
+			history = "SPR_NEW_WORLD_DESC"
 			ideology = liberal
 			ideas = {
 			}
@@ -74,7 +74,7 @@ bookmarks = {
 		}
 		"SPA"={
 			minor = yes
-			history = "SPA_GATHERING_STORM_DESC"
+			history = "SPA_NEW_WORLD_DESC"
 			ideology = despotic
 			ideas = {
 			}

@@ -1,0 +1,43 @@
+music_station = "cod_music"
+
+music = {
+	song = "maintheme_cod"
+	chance = {
+		base = 10
+	}
+}
+
+music = {
+	song = "90industrial_whitebat"
+	chance = {
+		base = 5
+	}
+}
+
+music = {
+	song = "deadly_force_whitebat"
+	chance = {
+		base = 5
+	}
+}
+
+music = {
+	song = "proletariat_whitebat"
+	chance = {
+		base = 5
+	}
+}
+
+music = {
+	song = "viol"
+	chance = {
+		base = 5
+	}
+}
+
+music = {
+	song = "violence_whitebat"
+	chance = {
+		base = 5
+	}
+}
