@@ -8,6 +8,7 @@ tags={
 }
 name="Children of Dusk Mod"
 replace_path="common/bookmarks"
+replace_path="interface"
 replace_path="gfx/loadingscreens"
 replace_path="gfx/flags"
 replace_path="gfx/flags/medium"

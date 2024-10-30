@@ -3,6 +3,8 @@ bookmarks = {
 		name = "NEW_WORLD_NAME"
 		desc = "NEW_WORLD_DESC"
 		date = 2049.12.1.1
+		picture = GFX_select_date_1936
+		
 		default_country = "FRA"
 		default = yes
 		
@@ -85,5 +87,19 @@ bookmarks = {
 		effect = {
 			randomize_weather = 22345
 		}
+	}
+	
+	bookmark = {
+		name = empty_bookmark_1
+        desc = empty_bookmark_1_desc
+        date = 2049.12.1.1
+        picture = GFX_select_date_1936
+        
+        "---" = {
+            history = EMPTY_OTHER_DESC
+        }
+        effect = {
+            randomize_weather = 1228
+        }
 	}
 }
