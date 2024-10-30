@@ -1,0 +1,30 @@
+state = {
+	id = 1006
+	name = STATE_1006
+
+	manpower = 20281000
+	state_category = large_town
+
+	history = {
+		owner = KON
+		add_core_of = KON
+		
+		victory_points = {
+			5117 5
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10968 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		5117 10968 12925
+	}
+	
+	local_supplies = 3.0
+}

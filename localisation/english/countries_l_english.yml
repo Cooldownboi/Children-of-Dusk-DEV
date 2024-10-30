@@ -256,6 +256,47 @@ DJI: "Djibouti"
 DJI_DEF: "Djibouti"
 DJI_ADJ: "Djiboutian"
 
+#People's Republic of Madagascar
+MAD: "People's Republic of Madagascar"
+MAD_DEF: "the People's Republic of Madagascar"
+MAD_ADJ: "Malagasy"
+
+#Ethiopia
+ETH: "Ethiopia"
+ETH_DEF: "Ethiopia"
+ETH_ADJ: "Ethiopian"
+
+#Congo Anarchy
+COG: "Congo Anarchy"
+COG_DEF: "the Congo Anarchy"
+COG_ADJ: "Congolese"
+
+#Kongo
+KON: "Kongo"
+KON_DEF: "Kongo"
+KON_ADJ: "Kongolese"
+
+#Democratic Republic of the Congo
+DRC: "DRC Emergency Government"
+DRC_DEF: "the DRC Emergency Government"
+DRC_ADJ: "Congolese"
+
+#Kantanga
+KAN: "Kantanga"
+KAN_DEF: "Kantanga"
+KAN_ADJ: "Katangese"
+
+#Mangetu
+MNG: "Mangetu"
+MNG_DEF: "Mangetu"
+MNG_ADJ: "Mangetu"
+
+#Azande
+AZE: "Azande"
+AZE_DEF: "Azande"
+AZE_ADJ: "Azande"
+## For MNG and AZE I simply used their name as the ADJ, as their names are just for the tribes, not necessarily the land/country
+
 ###North America
 
 #United States

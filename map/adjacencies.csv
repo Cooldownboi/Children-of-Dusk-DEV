@@ -220,4 +220,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13376;13377;sea;5394;-1;-1;-1;-1;;Unguja-Pemba
 13376;2196;sea;5394;-1;-1;-1;-1;;Unguja-Dar es Salaam
 13377;8183;sea;5369;-1;-1;-1;-1;;Pemba-Tanga
+13072;13392;sea;2605;-1;-1;-1;-1;;Coromos-Mayotte
 -1;-1;;-1;-1;-1;-1;-1;-1 

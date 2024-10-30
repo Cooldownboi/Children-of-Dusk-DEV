@@ -1,0 +1,22 @@
+state = {
+	id = 890
+	name = STATE_890
+
+	manpower = 2654000
+	state_category = pastoral
+	
+	resources = {
+		rubber = 3
+	}
+	
+	history = {
+		owner = COG
+		add_core_of = COG
+	}
+	
+	provinces = {
+		7161 10766
+	}
+	
+	local_supplies=0.0
+}

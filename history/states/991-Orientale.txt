@@ -8,7 +8,6 @@ state = {
 	history = {
 		owner = ORR
 		add_core_of = ORR
-		add_core_of = COG
 
 		victory_points = {
 			1181 1
@@ -21,6 +20,6 @@ state = {
 	}
 
 	provinces = {
-		1181 13374 13375
+		1181 13374 13375 13394
 	}
 }

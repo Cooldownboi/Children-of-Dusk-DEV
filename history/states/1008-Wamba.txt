@@ -1,0 +1,22 @@
+state = {
+	id = 1008
+	name = STATE_1008
+
+	manpower = 4008000
+	state_category = pastoral
+
+	history = {
+		owner = MNG
+		add_core_of = MNG
+		
+		victory_points = {
+			2154 1
+		}
+	}
+
+	provinces = {
+		2154 6027 12847 12783
+	}
+
+	local_supplies = 0.0
+}

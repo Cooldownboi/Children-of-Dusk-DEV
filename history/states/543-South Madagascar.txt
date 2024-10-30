@@ -1,0 +1,28 @@
+state = {
+	id = 543
+	name = STATE_543
+
+	manpower = 14154678
+	state_category = village
+	
+	history = {
+		owner = MAD
+		add_core_of = MAD
+
+		victory_points = {
+			10993 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		2200 8180 8246 10993 12956 
+	}
+
+	local_supplies = 0.0 
+}

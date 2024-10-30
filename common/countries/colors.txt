@@ -191,3 +191,35 @@ USA = {
 	color = rgb { 92 201 201 }
 	color_ui = rgb { 92 201 201 }
 }
+MAD = {
+	color = rgb { 125 37 37 }
+	color_ui = rgb { 155 67 67 }
+}
+ETH = {
+	color = rgb { 236 122 122 }
+	color_ui = rgb { 255 152 152 }
+}
+COG = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 65 65 65 }
+}
+KON = {
+	color = rgb { 227 140 111 }
+	color_ui = rgb { 255 170 141 }
+}
+DRC = {
+	color = rgb { 67 194 170 }
+	color_ui = rgb { 97 224 200 }
+}
+KAN = {
+	color = rgb { 38 161 89 }
+	color_ui = rgb { 68 191 119 }
+}
+MNG = {
+	color = rgb { 133 65 167 }
+	color_ui = rgb { 163 95 197 }	
+}
+AZE = {
+	color = rgb { 31 135 64 }
+	color_ui = rgb { 61 165 94 }
+}

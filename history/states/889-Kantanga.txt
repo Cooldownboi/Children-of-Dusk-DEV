@@ -1,0 +1,25 @@
+state = {
+	id = 889
+	name = STATE_889
+
+	manpower = 15385000
+	state_category = village
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = KAN
+		add_core_of = KAN
+
+		victory_points = {
+			191 1 
+		}
+	}
+	
+	provinces = {
+		191 1516 1817 1968 4515 4941 12795 12907 13397 13398
+	}
+
+	local_supplies = 0.0
+}

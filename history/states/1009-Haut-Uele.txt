@@ -1,0 +1,22 @@
+state = {
+	id = 1009
+	name = STATE_1009
+
+	manpower = 2046000
+	state_category = pastoral
+
+	history = {
+		owner = AZE
+		add_core_of = AZE
+
+		victory_points = {
+			13400 1
+		}
+	}
+
+	provinces = {
+		2034 13399 13400
+	}
+
+	local_supplies = 0.0
+}
