@@ -288,12 +288,12 @@ KAN_ADJ: "Katangese"
 
 #Mangetu
 MNG: "Mangetu"
-MNG_DEF: "Mangetu"
+MNG_DEF: "the Mangetu"
 MNG_ADJ: "Mangetu"
 
 #Azande
 AZE: "Azande"
-AZE_DEF: "Azande"
+AZE_DEF: "the Azande"
 AZE_ADJ: "Azande"
 ## For MNG and AZE I simply used their name as the ADJ, as their names are just for the tribes, not necessarily the land/country
 
