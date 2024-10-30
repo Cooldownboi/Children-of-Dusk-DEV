@@ -31,6 +31,8 @@ state={
 		victory_points = {
 			7169 15
 		}
+		
+		set_demilitarized_zone = yes
 
 	}
 

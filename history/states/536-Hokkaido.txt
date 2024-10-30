@@ -24,6 +24,8 @@ state = {
 		victory_points = {
 			3962 2 # Hakodate
 		}
+		
+		set_demilitarized_zone = yes
 
 	}
 

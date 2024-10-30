@@ -27,6 +27,7 @@ state={
 			10032 15
 		}
 
+		set_demilitarized_zone = yes
 	}
 
 	provinces={

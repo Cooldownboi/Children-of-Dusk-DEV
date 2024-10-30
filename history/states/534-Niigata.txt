@@ -20,6 +20,7 @@ state={
 			1117 10
 		}
 
+		set_demilitarized_zone = yes
 
 	}
 

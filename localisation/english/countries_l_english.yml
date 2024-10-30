@@ -303,3 +303,17 @@ AZE_ADJ: "Azande"
 USA: "United States of America"
 USA_DEF: "the United States of America"
 USA_ADJ: "American"
+
+############
+### ASIA ###
+############
+
+# China
+PRC: "People's Republic of China"
+PRC_DEF: "the People's Republic of China"
+PRC_ADJ: "Chinese"
+
+# Japan/Empire of Black Sun
+JAP: "Empire of the Black Sun"
+JAP_DEF: "the Empire of the Black Sun"
+JAP_ADJ: "Japanese"

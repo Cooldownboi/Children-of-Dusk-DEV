@@ -223,3 +223,11 @@ AZE = {
 	color = rgb { 31 135 64 }
 	color_ui = rgb { 61 165 94 }
 }
+PRC = {
+	color = rgb { 82  2  15 }
+	color_ui = rgb { 82  2  15 }
+}
+JAP = {
+	color = rgb { 112 71 122 }
+	color_ui = rgb { 112 71 122 }
+}
