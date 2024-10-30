@@ -1,0 +1,31 @@
+state={
+	id=1015
+	name="STATE_1015"
+	resources={
+
+	}
+
+	state_category = megalopolis
+
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 5
+			3878 = {
+				naval_base = 7
+			}
+		}
+		victory_points = {
+			3878 50
+		}
+	}
+
+	provinces={
+		859 3878
+	}
+	manpower=8258035
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+}

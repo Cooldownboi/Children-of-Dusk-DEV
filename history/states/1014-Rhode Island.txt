@@ -1,0 +1,31 @@
+state={
+	id=1014
+	name="STATE_1014"
+	resources={
+
+	}
+
+	state_category = town
+
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+			13391 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			13391 5
+		}
+	}
+
+	provinces={
+		13390 13391
+	}
+	manpower=1098163
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+}
