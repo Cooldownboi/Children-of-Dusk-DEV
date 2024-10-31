@@ -1,0 +1,76 @@
+﻿l_english:
+
+
+
+ ### DIVINIC GOVERNMENT
+ divinic:0 "Divinic"
+ Christian_Moralism:0 "Christian Moralism"
+ Left_Ummah:0 "Left Ummah"
+ Right_Ummah:0 "Right Ummah"
+ Constitutional_Monarchy:0 "Constitutional Monarchy"
+ Absolute_Monarchy:0 "Absolute Monarchy"
+ Theocracy:0 "Theocracy"
+ Islamic_Caliphate:0 "Islamic Caliphate"
+
+
+ 
+ ### DESPOTIC GOVERNMENT
+ despotic:0 "Despotic"
+ Warlord_State:0 "Warlordism"
+ State_Dictatorship:0 "State Dictatorship"
+ Eurasianism:0 "Eurasianism"
+ Technocracy:0 "Technocracy"
+ Technocracy_desc:0 "Liberalism in the traditional sense is mostly dead in the United States. In its place technocracy has became the ideologies opposing the Christian Right, and the militarist nationalist status quo. The ideology of academia, the government and intellectuals, they image a society where they're in charge. The Church, the Military and the average person oppose them."
+ Industrialism:0 "Industrialism"
+ Ultranationalism:0 "Ultranationalism"
+ Revanchism:0 "Revanchism"
+ Anti_Natalism:0 "Anti_Natalism"
+ Fatalism:0 "Fatalism"
+ 
+ 
+ 
+ ### AUTHORITARIAN REGIME
+ authortarian:0 "Authoritarian"
+ Populist_Democracy:0 "Populist Democracy"
+ Citizen_Republic:0 "Citizen Republic"
+ PMC_Rule:0 "PMC Rule"
+ PMC_Rule_desc:0 "Headquarters of a Private Military Company. It will do anything from active combat or sabotage to even law enforcement for the right price.\n\nAmerican Private Military Companies are rampant and the make enormous amounts of money bombing random poor people and it is glorious."
+ Statocracy:0 "Statocracy"
+ Statocracy_desc:0 "Stratocracy is a form of government headed by military chiefs. The branches of government are administered by military forces, the government is legal under the laws of the jurisdiction at issue, and is usually carried out by military workers."
+ Oligarchy:0 "Oligarchy"
+ Mandate:0 "Mandate"
+ 
+ 
+ 
+ ### LIBERALISM
+ liberal:0 "Liberalism"
+ Classical_Liberalism:0 "Classical Liberalism"
+ Classical_Liberalism_desc:0 "Liberal parties have been getting less and less support, as the world going downhill since the early 21st century. In the postliberal era every wacky ideology under the sun is viable somewhere. Globalism is dead, human rights is a joke, and the Geneva Convention is lying somewhere crying in the corner.\n\n\"Where did it all go so wrong?\""
+ Libertatianism:0 "Libertatianism"
+ Anarcho_Capitalism:0 "Anarcho Capitalism"
+ Naturalism:0 "Naturalism"
+ Equitable_Democracy:0 "Equitable Democracy"
+ 
+ 
+ 
+ ### COMMUNISM
+ communist:0 "Communism"
+ Classical_Socialism:0 "Classical Socialism"
+ Religious_Socialism:0 "Religious Socialism"
+ Market_Socialism:0 "Market Socialism"
+ Reactionary_Socialism:0 "Reactionary Socialism"
+ Pyongism:0 "Pyongism"
+ Anarcho_Communism:0 "Anarcho Communism"
+ ultracommunism:0 "Ultracommunism"
+ ultracommunism_desc:0 "A perfect economic system, tailored by Ricardo Sigma, which is not even remotely related to communism and just involves doing drugs and partying every day."
+ 
+ 
+ 
+ ### CORPORATOCRACY
+ corporatocracy:0 "Corporatocracy"
+ Corporate_Democracy:0 "Corporate Democracy"
+ Corporate_Democracy_desc:0 "Corporate Democracy"
+ Corporate_Oligarchy:0 "Corporate Oligarchy"
+ Corporate_Oligarchy_desc:0 "Corporate Oligarchy"
+ Corporation:0 "Corporation"
+ Corporation_desc:0 "A Corporation or multiple Corporations usually ruling a small area. Usually have some sort of puppet 'democratic' government, helping them rule."

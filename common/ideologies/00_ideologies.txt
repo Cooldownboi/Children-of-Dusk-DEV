@@ -146,8 +146,12 @@ ideologies = {
 			Reactionary_Socialism = {
 			}
 			Pyongism = {
+				can_be_randomly_selected = no
 			}
 			Anarcho_Communism = {
+			}
+			ultracommunism = {
+				can_be_randomly_selected = no
 			}
 		}
 

@@ -2,6 +2,8 @@
 
 #oob = ""
 
+recruit_character = FATES_character
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -34,10 +36,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	corporatocracy = 5
+	corporatocracy = 0
 	communist = 0
 	liberal = 0
-	authortarian = 10
-	despotic = 85
-	divinic = 0
+	authortarian = 2
+	despotic = 95
+	divinic = 3
 }

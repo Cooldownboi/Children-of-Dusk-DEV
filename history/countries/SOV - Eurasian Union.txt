@@ -4,6 +4,7 @@
 ####
 
 #COUNTRY LEADERS
+recruit_character = SOV_alexander_dugin
 
 #Add synthetic refineries tech
 set_technology = {

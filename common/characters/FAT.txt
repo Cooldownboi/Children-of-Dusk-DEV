@@ -1,0 +1,17 @@
+characters = {
+	FATES_character = { # FATES the goat
+		name = "FATES"
+		desc = FAT_fates_desc
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_unknown"
+			}
+		}
+		country_leader = {
+			ideology = Fatalism
+			traits = { }
+			expire = "2100.1.1.1"
+			id = -1
+		}
+	}
+}
