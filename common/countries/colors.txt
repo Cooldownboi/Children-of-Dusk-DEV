@@ -224,8 +224,8 @@ AZE = {
 	color_ui = rgb { 61 165 94 }
 }
 PRC = {
-	color = rgb { 82  2  15 }
-	color_ui = rgb { 82  2  15 }
+	color = rgb { 193 84 84 }
+	color_ui = rgb { 193 84 84 }
 }
 JAP = {
 	color = rgb { 112 71 122 }
@@ -262,4 +262,88 @@ ISM = {
 IRM = {
 	color = rgb { 40 116 58 }
 	color_ui = rgb { 70 146 88 }
+}
+KOR = {
+	color = rgb { 82  2  15 }
+	color_ui = rgb { 82  2  15 }
+}
+SHJ = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 54 54 54 }
+}
+PYJ = {
+	color = rgb { 116 77 81 }
+	color_ui = rgb { 116 77 81 }
+}
+MON = {
+	color = rgb { 221 90 90 }
+	color_ui = rgb { 221 90 90 }
+}
+NEP = {
+	color = rgb { 137 41 41 }
+	color_ui = rgb { 137 41 41 }
+}
+BEN = {
+	color = rgb { 239 147 147 }
+	color_ui = rgb { 239 147 147 }
+}
+BAN = {
+	color = rgb { 243 62 62 }
+	color_ui = rgb { 243 62 62 }
+}
+MYA = {
+	color = rgb { 139 41 41 }
+	color_ui = rgb { 139 41 41 }
+}
+SIA = {
+	color = rgb { 41 80 120 }
+	color_ui = rgb { 41 80 120 }
+}
+CAM = {
+	color = rgb { 147 0 0 }
+	color_ui = rgb { 147 0 0 }
+}
+VIN = {
+	color = rgb { 255 97 1 }
+	color_ui = rgb { 255 97 1 }
+}
+LAO = {
+	color = rgb { 53 14 13 }
+	color_ui = rgb { 53 14 13 }
+}
+MLS = {
+	color = rgb { 55 62 35 }
+	color_ui = rgb { 55 62 35 }
+}
+AFG = {
+	color = rgb { 203 201 217 }
+	color_ui = rgb { 203 201 217 }
+}
+PER = {
+	color = rgb { 180 167 203 }
+	color_ui = rgb { 180 167 203 }
+}
+BAL = {
+	color = rgb { 147 113 158 }
+	color_ui = rgb { 147 113 158 }
+}
+SID = {
+	color = rgb { 110 186 121 }
+	color_ui = rgb { 110 186 121 }
+}
+WPJ = {
+	color = rgb { 179 80 161 }
+	color_ui = rgb { 179 80 161 }
+}
+BWR = {
+	color = rgb { 96 183 183 }
+	color_ui = rgb { 96 183 183 }
+}
+RAJ = {
+	color = rgb { 223 187 78 }
+	color_ui = rgb { 223 187 78 }
+}
+UCI = {
+	color = rgb { 168 80 6 }
+	color_ui = rgb { 168 80 6 }
 }

@@ -3,9 +3,11 @@
 ###Europe
 
 #France
- FRA:0 "Greater France"
- FRA_DEF:0 "the Greater France"
+ FRA:0 "France"
+ FRA_DEF:0 "the France"
  FRA_ADJ:0 "French"
+ 
+ GREATER_FRANCE_FACTION:0 "Greater France"
 #French regional tags to be made later
 
 #Netherlands
@@ -61,8 +63,8 @@
 #German regional tags to be made later
 
 #Switzerland
- SWI:0 "Switzerland"
- SWI_DEF:0 "Switzerland"
+ SWI:0 "Swiss Bunker State"
+ SWI_DEF:0 "the Swiss Bunker State"
  SWI_ADJ:0 "Swiss"
 
 #Czechia
@@ -185,7 +187,7 @@
  SOV_DEF:0 "the Eurasian Union"
  SOV_ADJ:0 "Eurasian"
  
- EurasiaPact:0 "Eurasia Pact"
+ EURASIA_PACT_FACTION:0 "Eurasia Pact"
 #Eurasian regional tags to be made later
 
 ###Africa
@@ -353,7 +355,114 @@ PRC: "People's Republic of China"
 PRC_DEF: "the People's Republic of China"
 PRC_ADJ: "Chinese"
 
-# Japan/Empire of Black Sun
+GLOBAL_HEGEMONY_PACT_FACTION: "Global Hegemony Pact"
+
+# Mongolia
+MON: "Mongolian Buffer State"
+MON_DEF: "the Mongolian Buffer State"
+MON_ADJ: "Mongolian"
+
+# Nepal
+NEP: "Nepal"
+NEP_DEF: "the Nepal"
+NEP_ADJ: "Nepalese"
+
+# Bengal
+BEN: "Bengal"
+BEN_DEF: "the Bengal"
+BEN_ADJ: "Bengalian"
+
+# Bangladesh
+BAN: "Bangladesh"
+BAN_DEF: "the Bangladesh"
+BAN_ADJ: "Bangladeshian"
+
+# Myanmar
+MYA: "Myanmar"
+MYA_DEF: "the Myanmar"
+MYA_ADJ: "Myanmarese"
+
+# Korea / Pyongist State
+KOR: "Pyongist State"
+KOR_DEF: "the Pyongist State"
+KOR_ADJ: "Pyongist"
+
+# Japan / Empire of Black Sun
 JAP: "Empire of the Black Sun"
 JAP_DEF: "the Empire of the Black Sun"
 JAP_ADJ: "Japanese"
+
+# Japan / Shattered Japan
+SHJ: "Shattered Japan"
+SHJ_DEF: "the Shattered Japan"
+SHJ_ADJ: "Japanese"
+
+# Japan / Pyongist Japan
+PYJ: "Pyongist Japan"
+PYJ_DEF: "the Pyongist Japan"
+PYJ_ADJ: "Japanese"
+
+# Thailand
+SIA: "Thailand"
+SIA_DEF: "the Thailand"
+SIA_ADJ: "Thai"
+
+# Cambodia
+CAM: "Cambodia"
+CAM_DEF: "the Cambodia"
+CAM_ADJ: "Cambodian"
+
+# Vietnam
+VIN: "Vietnam"
+VIN_DEF: "the Vietnam"
+VIN_ADJ: "Vietnamese"
+
+# Laos
+LAO: "Laos"
+LAO_DEF: "the Laos"
+LAO_ADJ: "Laos"
+
+# Malaysia
+MLS: "Malaysia"
+MLS_DEF: "the Malaysia"
+MLS_ADJ: "Malaysian"
+
+# Afghanistan
+AFG: "Afghanistan"
+AFG_DEF: "the Afghanistan"
+AFG_ADJ: "Afghan"
+
+# Iran
+PER: "Iran"
+PER_DEF: "the Iran"
+PER_ADJ: "Iranian"
+
+# Balochistan
+BAL: "Balochistan"
+BAL_DEF: "the Balochistan"
+BAL_ADJ: "Balochian"
+
+# Sindh
+SID: "Sindh"
+SID_DEF: "the Sindh"
+SID_ADJ: "Sindhian"
+
+# West Punjab
+WPJ: "West Punjab"
+WPJ_DEF: "the West Punjab"
+WPJ_ADJ: "Punjabian"
+
+# Balawaristan
+BWR: "Balawaristan"
+BWR_DEF: "the Balawaristan"
+BWR_ADJ: "Balawarian"
+
+# India
+RAJ: "Republic of India"
+RAJ_DEF: "the Republic of India"
+RAJ_ADJ: "Indian"
+
+# Comm India
+UCI: "United Communes of India"
+UCI_DEF: "the United Communes of India"
+UCI_ADJ: "Indian"

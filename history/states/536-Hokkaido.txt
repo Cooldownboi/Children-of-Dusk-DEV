@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = JAP
-		add_core_of = JAP
+		owner = SHJ
+		add_core_of = SHJ
 
 		buildings = {
 			infrastructure = 2
@@ -24,8 +24,6 @@ state = {
 		victory_points = {
 			3962 2 # Hakodate
 		}
-		
-		set_demilitarized_zone = yes
 
 	}
 

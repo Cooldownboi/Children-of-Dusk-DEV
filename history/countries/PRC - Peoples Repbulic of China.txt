@@ -1,0 +1,57 @@
+﻿capital = 608
+
+oob = "PRC_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	mass_assault = 1
+}
+set_stability = 0.6
+set_war_support = 0.7
+
+set_politics = {
+	ruling_party = communist
+	last_election = "2046.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	corporatocracy = 0
+	communist = 52
+	liberal = 0
+	authortarian = 10
+	despotic = 38
+	divinic = 0
+}
+
+add_ideas = {
+	
+}
+
+# Asia
+puppet = MON
+puppet = NEP
+puppet = BEN
+puppet = BAN
+puppet = MYA
+
+# Africa
+puppet = MAD
+puppet = ETH
+puppet = SOD
+puppet = SOM
+puppet = DJI
+
+create_faction = GLOBAL_HEGEMONY_PACT_FACTION
+add_to_faction = MON
+add_to_faction = NEP
+add_to_faction = BEN
+add_to_faction = BAN
+add_to_faction = MYA
+add_to_faction = MAD
+add_to_faction = ETH
+add_to_faction = SOD
+add_to_faction = SOM
+add_to_faction = DJI

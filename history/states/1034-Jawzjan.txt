@@ -1,0 +1,20 @@
+state={
+	id=1034
+	name="STATE_1034"
+	manpower=613481
+	state_category=town
+	
+	history = {
+		owner = AFG
+		add_core_of = AFG
+
+        set_demilitarized_zone = yes
+	}
+	
+	provinces={
+		7448 7584 7984 10476 10896 12877
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

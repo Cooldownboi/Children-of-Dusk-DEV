@@ -2,9 +2,9 @@
 state={
 	id=321
 	name="STATE_321"
-	manpower = 533952
+	manpower = 2533952
 
-	state_category = enclave
+	state_category = city
 
 	history={
 		owner = RAJ

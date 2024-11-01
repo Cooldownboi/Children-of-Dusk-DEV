@@ -1,0 +1,36 @@
+
+state={
+	id=1037
+	name="STATE_1037" # Orissa
+	manpower = 35520100
+	
+	state_category = city
+	
+	resources={
+		steel=25 # was: 44
+		chromium=20 # was: 36
+		aluminium=1 # was: 2
+	}
+
+	history={
+		owner = UCI
+		add_core_of = UCI
+		add_core_of = RAJ
+
+        victory_points = {
+			8087 1
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+
+	}
+
+	provinces={
+		1275 1317 4280 5104 8087 10259 10324
+	}
+
+	local_supplies=0.0 
+}

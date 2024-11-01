@@ -1,0 +1,24 @@
+state={
+	id=1035
+	name="STATE_1035"
+	manpower=1031000
+	state_category=large_town
+	
+	history = {
+		owner = AFG
+		add_core_of = AFG
+
+        victory_points = {
+			5064 1 
+		}
+        
+        set_demilitarized_zone = yes
+	}
+	
+	provinces={
+		1948 2017 2062 2078 2101 4949 5020 5064
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

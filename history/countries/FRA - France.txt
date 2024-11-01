@@ -188,6 +188,12 @@ add_ideas = {
 	
 }
 
+create_faction = GREATER_FRANCE_FACTION
+add_to_faction = NAV
+add_to_faction = SPA
+add_to_faction = LBV
+add_to_faction = HOL
+
 if = {
 	limit = { has_dlc = "La Resistance" }
 	create_operative_leader = {

@@ -2,12 +2,13 @@
 state={
 	id=320
 	name="STATE_320"
-	manpower = 286410
+	manpower = 3286410
 
-	state_category = enclave
+	state_category = city
 
 	history={
-		owner = RAJ
+		owner = UCI
+		add_core_of = UCI
 		add_core_of = RAJ
 		buildings = {
 			infrastructure = 3 #was: 5
