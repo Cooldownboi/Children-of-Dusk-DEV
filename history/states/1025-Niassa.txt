@@ -1,0 +1,28 @@
+state = {
+	id = 1025
+	name = STATE_1025
+
+	manpower = 1865976
+	state_category = rural
+
+	history = {
+		owner = IRM
+		add_core_of = IRM
+		add_core_of = ISM
+
+		victory_points = {
+			10972 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		10972 13409 13410
+	}
+
+	local_supplies = 0.0
+}

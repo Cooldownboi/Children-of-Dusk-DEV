@@ -231,3 +231,35 @@ JAP = {
 	color = rgb { 112 71 122 }
 	color_ui = rgb { 112 71 122 }
 }
+MLW = {
+	color = rgb { 178 255 142 }
+	color_ui = rgb { 208 255 172 }
+}
+TTE = {
+	color = rgb { 234 130 96 }
+	color_ui = rgb { 255 160 126 }
+}
+MZB = {
+	color = rgb { 0 145 216 }
+	color_ui = rgb { 30 175 246 }
+}
+MPG = {
+	color = rgb { 58 141 197 }
+	color_ui = rgb { 88 171 227 }
+}
+SRM = {
+	color = rgb { 189 98 65 }
+	color_ui = rgb { 189 98 65 }
+}
+GZL = {
+	color = rgb { 0 58 159 }
+	color_ui = rgb { 39 88 189 }
+}
+ISM = {
+	color = rgb { 132 132 132 }
+	color_ui = rgb { 162 162 162 }
+}
+IRM = {
+	color = rgb { 40 116 58 }
+	color_ui = rgb { 70 146 88 }
+}

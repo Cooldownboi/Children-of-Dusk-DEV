@@ -1,0 +1,27 @@
+state = {
+	id = 1021
+	name = STATE_1021
+
+	manpower = 2764169
+	state_category = rural
+
+	history = {
+		owner = TTE
+		add_core_of = TTE
+
+		victory_points = {
+			13403 3
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		13403 13404
+	}
+
+	local_supplies = 0.0
+}

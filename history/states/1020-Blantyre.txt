@@ -1,0 +1,27 @@
+state = {
+	id = 1020
+	name = STATE_1019
+
+	manpower = 9910237
+	state_category = village
+
+	history = {
+		owner = MLW
+		add_core_of = MLW
+
+		victory_points = {
+			13402 2
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		12908 13402
+	}
+
+	local_supplies = 0.0
+}

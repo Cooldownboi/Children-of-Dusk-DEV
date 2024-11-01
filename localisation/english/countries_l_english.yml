@@ -297,6 +297,46 @@ AZE_DEF: "the Azande"
 AZE_ADJ: "Azande"
 ## For MNG and AZE I simply used their name as the ADJ, as their names are just for the tribes, not necessarily the land/country
 
+#Malawi
+MLW: "Malawi"
+MLW_DEF: "Malawi"
+MLW_ADJ: "Malawian"
+
+#Tete
+TTE: "Tete"
+TTE_DEF: "Tete"
+TTE_ADJ: "Tetan"
+
+#Republic of Mozambique
+MZB: "Republic of Mozambique"
+MZB_DEF: "the Republic of Mozambique"
+MZB_ADJ: "Mozambican"
+
+#Maputo Government
+MPG: "Maputo Government"
+MPG_DEF: "the Maputo Government"
+MPG_ADJ: "Maputan"
+
+#Socialist Republic of Mozambique
+SRM: "Socialist Republic of Mozambique"
+SRM_DEF: "the Socialist Republic of Mozambique"
+SRM_ADJ: "Mozambican"
+
+#Gazaland
+GZL: "Gazaland"
+GZL_DEF: "Gazaland"
+GZL_ADJ: "Gazalandian"
+
+#Islamic State of Mozambique
+ISM: "Islamic State of Mozambique"
+ISM_DEF: "the Islamic State of Mozambique"
+ISM_ADJ: "Mozambican"
+
+#Islamic Republic of Mozambique
+IRM: "Islamic Republic of Mozambique"
+IRM_DEF: "the Islamic Republic of Mozambique"
+IRM_ADJ: "Mozambican"
+
 ###North America
 
 #United States

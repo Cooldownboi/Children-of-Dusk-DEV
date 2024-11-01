@@ -1,0 +1,26 @@
+state = {
+	id = 1023
+	name = STATE_1023
+
+	manpower = 264157
+	state_category = pastoral
+
+	history = {
+		owner = SRM
+		add_core_of = SRM
+
+		victory_points = {
+			2193 1
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		2193
+	}
+
+	local_supplies = 0.0
+}

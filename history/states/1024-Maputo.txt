@@ -1,0 +1,30 @@
+state = {
+	id = 1024
+	name = STATE_1024
+
+	manpower = 3608268
+	state_category = village
+
+	history = {
+		owner = MPG
+		add_core_of = MPG
+
+		victory_points = {
+			8245 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			8245 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = {
+		8245
+	}
+
+	local_supplies = 1.0
+}
