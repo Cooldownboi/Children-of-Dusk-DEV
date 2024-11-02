@@ -47,7 +47,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "btn_minimize"
-				position = {x=568 y=11}
+				position = {x=568 y=12}
 				spriteType = "GFX_event_button_minimize"
 				clicksound = click_default
 				pdx_tooltip = "MINIMIZE_EVENT"
@@ -74,7 +74,7 @@ guiTypes = {
 				font = "hoi_20bs" #hoi4_typewriter16
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
-				maxWidth = 355
+				maxWidth = 563
 				maxHeight = 300
 				format = left
 			}	
@@ -101,7 +101,7 @@ guiTypes = {
 			iconType = {
 				name ="event_picture"
 				spriteType = "GFX_report_event_001"
-				position = { x = 405 y = -155 }
+				position = { x = 360 y = 44 }
 				Orientation = "UPPER_LEFT"
 				alwaystransparent = yes				
 			}
@@ -116,9 +116,9 @@ guiTypes = {
 
 			gridBoxType = {
 				name = "options_grid"
-				position = { x = 15 y = 10 }
-				size = { width = 300 height = 30 }
-				slotsize = { width = 300 height = 47 }
+				position = { x = 15 y = 11 }
+				size = { width = 345 height = 30 }
+				slotsize = { width = 345 height = 47 }
 				max_slots_horizontal = 1
 				format = "UPPER_LEFT"
 			}
@@ -562,7 +562,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "event_option_entry"
-		size = { width = 300 height = 47 }
+		size = { width = 345 height = 47 }
 		clipping = no
 		
 		background = {
@@ -572,7 +572,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "Name"
-			position = { x = 25 y = 0 }
+			position = { x = 18 y = 0 }
 			font = "hoi_20bs"
 			maxWidth = 340
 			maxHeight = 40
