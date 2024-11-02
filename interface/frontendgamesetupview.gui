@@ -10,7 +10,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "bookmark_entry"
 		position = { x= 0 y = 0 }
-		size = { width=232 height=211}
+		size = { width=232 height=191}
 		clipping = no
 		fade_time = 500
 		fade_type = linear
@@ -19,6 +19,7 @@ guiTypes = {
 			name = "background"
 			quadTextureSprite = "GFX_bookmark_entry_bg"
 			clicksound = click_checkbox
+			#scale = 1.2
 		}
 
 		iconType = {
@@ -30,7 +31,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "date"
-			position = { x = 22 y = 147 }
+			position = { x = 22 y = 140 }
 			font = "hoi_20b"
 			borderSize = {x = 0 y = 0}
 			text = "FE_BOOKMARK_DATE"
@@ -511,14 +512,14 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "title"
-			position = { x = 120 y = 14 }
+			position = { x = 35 y = 6 }
 			textureFile = ""
 			font = "hoi_20b"
 			borderSize = {x = 0 y = 0}
-			text = "FE_SELECT_SCENARIO"
+			text = "FE_SELECT_SCENARIO_EXE"
 			maxWidth = 340
 			maxHeight = 30
-			format = center
+			format = left
 		}
 
 		background = {
@@ -528,12 +529,12 @@ guiTypes = {
 
 		containerWindowType = {
 			name ="bookmarks"
-			position = { x = 43 y = 55 }
+			position = { x = 43 y = 45 }
 			size = { width = -10 height = 120}
 
 			gridboxType = {
 				name = "bookmarks_grid"
-				position = { x = 0 y = 0 }
+				position = { x = 0 y = 12 }
 				size = { width = 100%% height = 100%% }
 				slotsize = { width = 260 height = 0 }
 				add_horizontal = yes
@@ -543,21 +544,21 @@ guiTypes = {
 			}
 		}
 
-		instantTextBoxType = {
-			name = "history_title"
-			position = { x = 110 y = 274 }
-			font = "hoi_20b"
-			borderSize = {x = 0 y = 0}
-			text = "BM_HISTORY_TITLE"
-			maxWidth = 340
-			maxHeight = 30
-			format = centre
-		}
+		#instantTextBoxType = {
+		#	name = "history_title"
+		#	position = { x = 110 y = 274 }
+		#	font = "hoi_20b"
+		#	borderSize = {x = 0 y = 0}
+		#	text = "BM_HISTORY_TITLE"
+		#	maxWidth = 340
+		#	maxHeight = 30
+		#	format = centre
+		#}
 
 		instantTextBoxType = {
 			name = "bookmark_title"
-			position = { x = 25 y = 305 }
-			font = "hoi4_typewriter22"
+			position = { x = 15 y = 272 }
+			font = "hoi_20b"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 340
 			maxHeight = 30
@@ -567,10 +568,10 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "bookmark_desc"
-			position = { x = 25 y = 330 }
-			font = "hoi4_typewriter16"
+			position = { x = 10 y = 300 }
+			font = "hoi_18mbs"
 			borderSize = {x = 0 y = 0}
-			maxWidth = 540
+			maxWidth = 560
 			maxHeight = 30
 			format = left
 			#scrollbarType = {
@@ -584,11 +585,12 @@ guiTypes = {
 
 		ButtonType = {
 			name = "back_button"
-			position = { x = 30 y = -57 }
-			quadTextureSprite ="GFX_button_221x34"
-			buttonText = "BACK"
-			buttonFont = "hoi_18mbs"
-			Orientation = "LOWER_LEFT"
+			position = { x = 547 y = 4 }
+			scale = 0.85
+			quadTextureSprite ="GFX_event_button_minimize"
+			#buttonText = "BACK"
+			#buttonFont = "hoi_18mbs"
+			Orientation = "UPPER_LEFT"
 			clicksound = click_close
 			oversound = ui_menu_over
 			shortcut = "ESCAPE"
@@ -598,7 +600,7 @@ guiTypes = {
 			name = "select_button"
 			position = { x = -252 y = -57 }
 			quadTextureSprite ="GFX_button_221x34"
-			buttonText = "FE_SELECT_SCENARIO"
+			buttonText = "FE_OPEN_FILE"
 			buttonFont = "hoi_18mbs"
 			Orientation = "LOWER_RIGHT"
 			clicksound = click_ok
