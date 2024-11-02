@@ -562,6 +562,7 @@ guiTypes = {
 			maxWidth = 340
 			maxHeight = 30
 			format = left
+			
 		}
 
 		instantTextBoxType = {
@@ -572,6 +573,13 @@ guiTypes = {
 			maxWidth = 540
 			maxHeight = 30
 			format = left
+			#scrollbarType = {
+			#	name = "bookmark_desc_scrollbar"
+			#	maxValue = 600
+			#	maxValue = 30
+			#	horizontal = 0
+			#}
+			
 		}
 
 		ButtonType = {

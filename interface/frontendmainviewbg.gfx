@@ -8,11 +8,11 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.shader"
 	}
 	
-	quadTextureSpriteType = {
+	corneredTileSpriteType = {
 		name = "GFX_tiled_window_cod"
 		texturefile = "gfx/interface/tiled_window_cod.dds"
 		borderSize = { x=0 y=0 }
 		size = { x=192 y=192 }
-		tilingCenter = yes
+		#tilingCenter = yes
 	}
 }

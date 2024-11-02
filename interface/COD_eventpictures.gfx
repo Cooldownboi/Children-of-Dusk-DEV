@@ -1,0 +1,13 @@
+spriteTypes = {
+	
+	### SOV
+	spriteType = {
+		name = "GFX_report_event_ww4"
+		texturefile = "gfx/event_pictures/report_event_ww4.dds"
+	}
+
+
+}
+
+
+

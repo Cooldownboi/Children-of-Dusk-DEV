@@ -3,7 +3,7 @@
 music = {
 	name = "maintheme"
 	file = "cod_main_theme.ogg"
-	volume = 0.8
+	volume = 0.6
 }
 
 # General Peace:

@@ -1,0 +1,23 @@
+add_namespace = SOV
+
+country_event = {
+	id = SOV.1
+	title = SOV.1.t
+	desc = SOV.1.d
+	
+	picture = GFX_report_event_ww4
+	
+	option = {
+		name = SOV.1.a
+	}
+}
+
+news_event = {
+	id = SOV.2
+	title = SOV.2.t
+	desc = SOV.2.d
+	
+	option = {
+		name = SOV.2.a
+	}
+}

@@ -15,7 +15,7 @@
 
  
  ### DESPOTIC GOVERNMENT
- despotic:0 "Despotic"
+ despotic:0 "Despotism"
  Warlord_State:0 "Warlordism"
  State_Dictatorship:0 "State Dictatorship"
  Eurasianism:0 "Eurasianism"
@@ -72,5 +72,5 @@
  Corporate_Democracy_desc:0 "Corporate Democracy"
  Corporate_Oligarchy:0 "Corporate Oligarchy"
  Corporate_Oligarchy_desc:0 "Corporate Oligarchy"
- Corporation:0 "Corporation"
+ Corporation:0 "Direct Corporate Rule"
  Corporation_desc:0 "A Corporation or multiple Corporations usually ruling a small area. Usually have some sort of puppet 'democratic' government, helping them rule."

@@ -142,18 +142,17 @@ guiTypes = {
 		name ="mainmenu_panel_bottom"
 		position = { x = 20 y = 600 }
 		size = { width = 320 height = 435 }
-		Orientation = BOTTOMLEFT
-		Origo = bottomleft		
+		Orientation = upper_left	
 
 		positionType = {
 			name = "subscription_size"
 			position = { x = 320 y = 563 }
 		}
 				
-		#background = {
-		#	name = "Background"		
-		#	quadTextureSprite ="GFX_tiled_window_cod"
-		#}
+		background = {
+			name = "Background"		
+			quadTextureSprite = "GFX_tiled_window_cod"
+		}
 			
 		ButtonType = {
 			name = "single_player_button"

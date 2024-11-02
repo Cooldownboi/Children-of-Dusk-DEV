@@ -8,8 +8,27 @@ bookmarks = {
 		default_country = "FRA"
 		default = yes
 		
+		"USA"={
+			history = "USA_NEW_WORLD_DESC"
+			ideology = liberal
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
 		"FRA"={
 			history = "FRA_NEW_WORLD_DESC"
+			ideology = despotic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"FAT"={
+			history = "FAT_NEW_WORLD_DESC"
 			ideology = despotic
 			ideas = {
 				
@@ -18,35 +37,9 @@ bookmarks = {
 				
 			}
 		}
-		#"USA"={
-		#	history = "USA_NEW_WORLD_DESC"
-		#	ideology = liberal
-		#	ideas = {
-		#	}
-		#	focuses = {
-		#	}
-		#}
-		"ENG"={
-			history = "ENG_NEW_WORLD_DESC"
-			ideology = liberal
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		"GER"={
-			history = "GER_NEW_WORLD_DESC"
-			ideology = authortarian
-			ideas = {
-				
-			}
-			focuses = {
-				
-			}
-		}
-		"ITA"={
-			history = "ITA_NEW_WORLD_DESC"
-			ideology = liberal
+		"PRC"={
+			history = "PRC_NEW_WORLD_DESC"
+			ideology = communist
 			ideas = {
 			}	
 			focuses = {
@@ -60,9 +53,27 @@ bookmarks = {
 			focuses = {
 			}		
 		}
+		"JAP"={
+			history = "JAP_NEW_WORLD_DESC"
+			ideology = despotic
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
 		
 		"---"={
 			history = "OTHER_NEW_WORLD_DESC"
+		}
+		
+		"ENG"={
+			minor = yes
+			history = "ENG_NEW_WORLD_DESC"
+			ideology = liberal
+			ideas = {
+			}
+			focuses = {
+			}
 		}
 		
 		"SPR"={
