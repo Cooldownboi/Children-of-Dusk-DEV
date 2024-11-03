@@ -2,8 +2,9 @@
  BM_HISTORY_TITLE:0 "History"
  FE_SELECT_SCENARIO_EXE:0 "scenario_selection.exe"
  FE_OPEN_FILE:0 "Run Program >"
+ UPDATE_DESC_A:0 "Version: §CAlpha v0.0.1§!\n\n§YUPDATE LOG§!:\n- Added most §Ccountries§! on the map, including the starting leaders and national spirits for them\n- Total revamp of the §CGUI§!\n- Lore was rewritten to be less §Rschizo§!"
 
- NEW_WORLD_NAME:0 "countdown_to_armageddon.log (preview)"
+ NEW_WORLD_NAME:0 "countdown_to_armageddon.bmk"
  #NEW_WORLD_DESC:0 "The world accelerates to a new technological horizon. China has created a Skynet City, a city located entirely in virtual reality. America creates TRINITY, a satellite system meant to shield them from a Nuclear War. And FATES, a NATO supercomputer made to fight the 3rd World War, awakens from his slumber, and vows to stop at nothing from reshaping the West in his turannical image.\n\nThe late 2040's saw the complete recovery of The United States as a major power following its humiliation on the 3rd World War. The now 3-way Cold War between the Eurasian Union, China, and the United States escalates. The Cold War spills over into countless global proxy battles, and the Chinese Economy is on a brink of collapse.\n\nThe world stands waist high in gasoline, and it is FATES who lits the match."
  NEW_WORLD_DESC:0 ">The Antarctic Treaty has expired, and the SCRAMBLE FOR ANTARCTICA has begun.\n>The American culture wars have concluded. The Cortezian right has won.\n>The fallout of the Unravelling continues. Eurasia and China look to prey on the weak states of the Middle East.\n>An Islamic reformation is verdue, an AWAKENING is coming.\n>America has recovered from the 3rd World War. The 2ND COLD WAR has begun.\n\nFor every day, there is an evening."
  

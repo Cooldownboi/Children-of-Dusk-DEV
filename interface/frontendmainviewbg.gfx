@@ -15,4 +15,18 @@ spriteTypes = {
 		size = { x=192 y=192 }
 		#tilingCenter = yes
 	}
+	corneredTileSpriteType = {
+		name = "GFX_main_menu_bg_500x650"
+		texturefile = "gfx/interface/main_menu_bg_500x650.dds"
+		borderSize = { x=0 y=0 }
+		size = { x=500 y=650 }
+		#tilingCenter = yes
+	}
+	corneredTileSpriteType = {
+		name = "GFX_close_button_40x40"
+		texturefile = "gfx/interface/close_button_40x40.dds"
+		borderSize = { x=0 y=0 }
+		size = { x=40 y=40 }
+		#tilingCenter = yes
+	}
 }
