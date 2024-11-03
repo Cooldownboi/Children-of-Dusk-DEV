@@ -1,0 +1,29 @@
+state = {
+	id = 1044
+	name = STATE_1044
+
+	manpower = 2180153
+	state_category = rural
+
+	history = {
+		owner = CHF
+		add_core_of = CHF
+
+		victory_points = {
+			13418 4
+		}
+		victory_points = {
+			7548 1
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		7548 13418
+	}
+
+	local_supplies = 0.5
+}

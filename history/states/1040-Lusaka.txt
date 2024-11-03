@@ -1,0 +1,31 @@
+state = {
+	id = 1040
+	name = STATE_1040
+
+	manpower = 6404838
+	state_category = village
+
+	history = {
+		owner = BAR
+		add_core_of = BAR
+
+		victory_points = {
+			5199 7
+		}
+		victory_points = {
+			12504 4
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		5199 12504
+	}
+
+	local_supplies = 2.0
+}

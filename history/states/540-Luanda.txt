@@ -1,0 +1,31 @@
+state = {
+	id = 540
+	name = STATE_540
+
+	manpower = 12452463
+	state_category = village
+
+	history = {
+		owner = ANG
+		add_core_of = ANG
+
+		victory_points = {
+			8248 10
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			8248 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = {
+		8219 8248 12981 13417
+	}
+	
+	local_supplies = 2.0
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 1039
+	name = STATE_1039
+
+	manpower = 4522536
+	state_category = rural
+
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+
+		victory_points = {
+			10594 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		1846 10594 10930 13411 13173
+	}
+
+	local_supplies = 1.0
+}

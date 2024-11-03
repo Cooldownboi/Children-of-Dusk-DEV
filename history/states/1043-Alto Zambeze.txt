@@ -1,0 +1,26 @@
+state = {
+	id = 1043
+	name = STATE_1043
+
+	manpower = 231655
+	state_category = pastoral
+
+	history = {
+		owner = LDA
+		add_core_of = LDA
+
+		victory_points = {
+			8054 1
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		8054
+	}
+
+	local_supplies = 0.0
+}

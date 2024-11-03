@@ -289,9 +289,9 @@ KAN_DEF: "Kantanga"
 KAN_ADJ: "Katangese"
 
 #Mangetu
-MNG: "Mangetu"
-MNG_DEF: "the Mangetu"
-MNG_ADJ: "Mangetu"
+MNG: "Mangbetu"
+MNG_DEF: "the Mangbetu"
+MNG_ADJ: "Mangbetu"
 
 #Azande
 AZE: "Azande"
@@ -338,6 +338,56 @@ ISM_ADJ: "Mozambican"
 IRM: "Islamic Republic of Mozambique"
 IRM_DEF: "the Islamic Republic of Mozambique"
 IRM_ADJ: "Mozambican"
+
+#Zambian Junta
+ZAM: "Zambian Junta"
+ZAM_DEF: "the Zambian Junta"
+ZAM_ADJ: "Zambian"
+
+#Barotseland
+BAR: "Barotseland"
+BAR_DEF: "Barotseland"
+BAR_ADJ: "Barotse"
+
+#U.N. Peacekeeping Encalve
+UNE: "U.N. Peacekeeping Enclave"
+UNE_DEF: "the U.N. Peacekeeping Enclave"
+UNE_ADJ: "U.N. Peacekeeper"
+
+#Lunda Kingdom
+LDA: "Lunda Kingdom"
+LDA_DEF: "the Lunda Kingdom"
+LDA_ADJ: "Lunda"
+
+#Chokwe Federation
+CHF: "Chokwe Federation"
+CHF_DEF: "the Chokwe Federation"
+CHF_ADJ: "Chokwe"
+
+#Mbunda Union
+MBU: "Mbunda Union"
+MBU_DEF: "the Mbunda Union"
+MBU_ADJ: "Mbunda"
+
+#Angola Republic
+ANG: "Angola Republic"
+ANG_DEF: "the Angola Republic"
+ANG_ADJ: "Angolan"
+
+#Angolan National Salvation Government
+ANS: "Angolan National Salvation Government"
+ANS_DEF: "the Angolan National Salvation Government"
+ANS_ADJ: "Angolan"
+
+#Angolan People's Republic
+APR: "Angolan People's Republic"
+APR_DEF: "the Angolan People's Republic"
+APR_ADJ: "Angolan"
+
+#Cabinda
+CAB: "Cabinda"
+CAB_DEF: "Cabinda"
+CAB_ADJ: "Cabindan"
 
 ###North America
 

@@ -347,3 +347,43 @@ UCI = {
 	color = rgb { 168 80 6 }
 	color_ui = rgb { 168 80 6 }
 }
+ZAM = {
+	color = rgb { 2 217 162 }
+	color_ui = rgb { 32 247 192 }
+}
+BAR = {
+	color = rgb { 255 93 165 }
+	color_ui = rgb { 255 123 195 }
+}
+UNE = {
+	color = rgb { 0 136 229 }
+	color_ui = rgb { 0 166 255 }
+}
+LDA = {
+	color = rgb { 45 137 143 }
+	color_ui = rgb { 75 167 173 }
+}
+CHF = {
+	color = rgb { 193 176 59 }
+	color_ui = rgb { 223 206 89 }
+}
+MBU = {
+	color = rgb { 127 170 172 }
+	color_ui = rgb { 157 200 202 }
+}
+ANG = {
+	color = rgb { 41 117 128 }
+	color_ui = rgb { 71 147 158 }
+}
+ANS = {
+	color = rgb { 169 133 92 }
+	color_ui = rgb { 199 163 122 }
+}
+APR = {
+	color = rgb { 193 36 36 }
+	color_ui = rgb { 223 66 66 }
+}
+CAB = {
+	color = rgb { 119 55 13 }
+	color_ui = rgb { 149 85 43 }
+}

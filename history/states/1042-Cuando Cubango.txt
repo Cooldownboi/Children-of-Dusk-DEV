@@ -1,0 +1,26 @@
+state = {
+	id = 1042
+	name = STATE_1042
+
+	manpower = 984002
+	state_category = pastoral
+
+	history = {
+		owner = MBU
+		add_core_of = MBU
+
+		victory_points = {
+			13415 1
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4735 13414 13415
+	}
+
+	local_supplies = 0.5
+}

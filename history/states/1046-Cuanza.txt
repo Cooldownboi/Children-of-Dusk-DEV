@@ -1,0 +1,27 @@
+state = {
+	id = 1046
+	name = STATE_1046
+
+	manpower = 2890039
+	state_category = rural
+
+	history = {
+		owner = ANG
+		add_core_of = ANG
+
+		victory_points = {
+			5158 2
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		5158 13419 13422
+	}
+
+	local_supplies = 0.0
+}

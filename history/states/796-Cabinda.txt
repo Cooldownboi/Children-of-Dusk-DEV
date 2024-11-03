@@ -1,0 +1,33 @@
+state = {
+	id = 796
+	name = STATE_796
+
+	manpower = 1024143
+	state_category = rural
+	resources = {
+		oil = 10
+	}
+
+	history = {
+		owner = CAB
+		add_core_of = CAB
+
+		victory_points = {
+			2115 4
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			2115 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		2115 
+	}
+
+	local_supplies = 1.0 
+}

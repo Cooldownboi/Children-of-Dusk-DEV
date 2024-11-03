@@ -1,0 +1,29 @@
+state = {
+	id = 1045
+	name = STATE_1045
+	
+	manpower = 4263310
+	state_category = village
+	
+	history = {
+		owner = APR
+		add_core_of = APR
+
+		victory_points = {
+			13424 2
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		12391 13420 13423 13424
+	}
+
+	local_supplies = 2.0
+
+}

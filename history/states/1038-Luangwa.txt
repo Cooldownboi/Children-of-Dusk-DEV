@@ -1,0 +1,26 @@
+state = {
+	id = 1038
+	name = STATE_1038
+
+	manpower = 2603000
+	state_category = pastoral
+
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+
+		victory_points = {
+			13412 3
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5221 13412
+	}
+
+	local_supplies = 0.0
+}

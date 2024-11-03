@@ -1,0 +1,31 @@
+state = {
+	id = 771
+	name = STATE_771
+	
+	manpower = 6991626
+	state_category = rural
+	resources = {
+		chromium = 35
+		tungsten = 8
+	}
+
+	history = {
+		owner = BAR
+		add_core_of = BAR
+
+		victory_points = {
+			7872 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		697 7872 10538 12677
+	}
+
+	local_supplies = 1.0 
+}
