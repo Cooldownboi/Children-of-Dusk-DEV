@@ -2,22 +2,28 @@
 state={
 	id=379
 	name="STATE_379"
-	manpower = 91057
+	manpower = 3104614
 	
-	state_category = rural
+	state_category = large_town
 	
 	resources={
-		steel=70 # was: 136
-		tungsten=32 # was: 62
-		aluminium=25 # was: 44
+		steel=70
+		tungsten=32
+		aluminium=25
 	}
 
 	history={
 		owner = USA
-		buildings = {
-			infrastructure = 2
-		}
 		add_core_of = USA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			4799 10
+		}
+		victory_points = {
+			10422 5
+		}
 	}
 
 	provinces={

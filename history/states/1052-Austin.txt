@@ -1,0 +1,36 @@
+state={
+	id=1052
+	name="STATE_1052"
+	resources={
+
+	}
+
+	state_category = city
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			5022 15
+		}
+		victory_points = {
+			9920 5
+		}
+		victory_points = {
+			7981 5
+		}
+		victory_points = {
+			1915 1
+		}
+	}
+
+	provinces={
+		1915 3875 5022 5085 7836 7981 9920 12875
+	}
+	manpower=5113798
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+}

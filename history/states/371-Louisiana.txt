@@ -2,7 +2,7 @@
 state={
 	id=371
 	name="STATE_371"
-	manpower = 2101592
+	manpower = 4657757
 	
 	state_category = city
 	
@@ -12,20 +12,28 @@ state={
 
 	history={
 		owner = USA
+		add_core_of = USA
 		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 2
-			air_base = 5
+			infrastructure = 3
 			7552 = {
 				naval_base = 5
-
 			}
 		}
-		add_core_of = USA
 		victory_points = {
-			7552 10 
+			7552 15
 		}
-
+		victory_points = {
+			1453 5
+		}
+		victory_points = {
+			1643 3
+		}
+		victory_points = {
+			7555 1
+		}
+		victory_points = {
+			12401 2
+		}
 	}
 
 	provinces={
