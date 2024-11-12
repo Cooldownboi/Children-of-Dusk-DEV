@@ -1,0 +1,51 @@
+state={
+	id=1054
+	name="STATE_1054"
+	resources={
+
+	}
+
+	state_category = megalopolis
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+			1562 = {
+				naval_base = 10
+			}
+			9814 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			1562 15 
+		}
+		victory_points = {
+			9814 30
+		}
+		victory_points = {
+			11757 5
+		}
+		victory_points = {
+			7517 2
+		}
+		victory_points = {
+			11859 5
+		}
+		victory_points = {
+			9855 3
+		}
+		victory_points = {
+			9911 3
+		}
+	}
+
+	provinces={
+		986 1562 3784 6881 7517 9814 9855 9911 11757 11859 11876
+	}
+	manpower=18945775
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+}
