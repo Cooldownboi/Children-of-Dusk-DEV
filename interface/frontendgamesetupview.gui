@@ -574,13 +574,6 @@ guiTypes = {
 			maxWidth = 560
 			maxHeight = 30
 			format = left
-			#scrollbarType = {
-			#	name = "bookmark_desc_scrollbar"
-			#	maxValue = 600
-			#	maxValue = 30
-			#	horizontal = 0
-			#}
-			
 		}
 
 		ButtonType = {
