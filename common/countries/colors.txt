@@ -1,4 +1,12 @@
 #reload countrycolors
+MEX = {
+	color = rgb { 135 35 35 }
+	color_ui = rgb { 115 28 28 }
+}
+NMX = {
+	color = rgb { 104 152 83 }
+	color_ui = rgb { 135 198 108 }
+}
 FRA = {
 	color = rgb { 69 119 173 }
 	color_ui = rgb { 69 119 173 }

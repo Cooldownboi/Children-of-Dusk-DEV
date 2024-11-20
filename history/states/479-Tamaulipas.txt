@@ -12,7 +12,8 @@ state = {
 	
 	history = {
 
-		owner = MEX
+		owner = NMX
+		add_core_of = NMX
 		add_core_of = MEX
 		add_core_of = RIG
 
@@ -31,7 +32,7 @@ state = {
 	}
 
 	provinces = {
-		1952 2083 4956 5015 5021 12721 13088 
+		2083 5015 12721 13088 13426
 	}
 	local_supplies = 0.0 
 }

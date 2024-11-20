@@ -391,6 +391,16 @@ CAB_ADJ: "Cabindan"
 
 ###North America
 
+#Mexico
+ MEX:0 "Holy People's Republic of Mexico"
+ MEX_DEF:0 "the Holy People's Republic of Mexico"
+ MEX_ADJ:0 "Mexican"
+ 
+#Northern Mexico
+ NMX:0 "United North Mexican States"
+ NMX_DEF:0 "the United North Mexican States"
+ NMX_ADJ:0 "Mexican"
+
 #United States
 USA: "United States of America"
 USA_DEF: "the United States of America"
