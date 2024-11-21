@@ -11,7 +11,8 @@ state = {
 
 	history = {
 
-		owner = PRU
+		owner = AND
+		add_core_of = AND
 		add_core_of = PRU
 
 		buildings = {
@@ -38,7 +39,7 @@ state = {
 	}
 
 	provinces = {
-		2182 2210 2225 5202 12953 13175 13286 13288
+		2162 2182 2210 2225 5202 12953 12983 12997 13175 13286 13288
 	}
 	
 	buildings_max_level_factor = 1.000

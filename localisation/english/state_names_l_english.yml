@@ -492,7 +492,7 @@
  STATE_491:0 "Loreto"
  STATE_492:0 "Arequipa"
  STATE_493:0 "La Libertad"
- STATE_494:0 "Ucayali"
+ STATE_494:0 "Southern Ucayali"
  STATE_495:0 "Amazonas"
  STATE_496:0 "Minas Gerais"
  STATE_497:0 "Maranhão"
@@ -1054,3 +1054,4 @@
  STATE_1053: "Mojave"
  STATE_1054: "Los Angeles"
  STATE_1055: "San Francisco"
+ STATE_1056: "Northern Ucayali"

@@ -1,4 +1,36 @@
 #reload countrycolors
+AND = {
+	color = rgb { 163 41 49 }
+	color_ui = rgb { 138 29 36 }
+}
+BRA = {
+	color = rgb { 76 145 63 }
+	color_ui = rgb { 99 189 82 }
+}
+PRU = {
+	color = rgb { 194 76 83 }
+	color_ui = rgb { 176 70 77 }
+}
+ECU = {
+	color = rgb { 115 71 45 }
+	color_ui = rgb { 112 65 37 }
+}
+COL = {
+	color = rgb { 176 151 65 }
+	color_ui = rgb { 166 139 46 }
+}
+VEN = {
+	color = rgb { 145 120 29 }
+	color_ui = rgb { 140 115 24 }
+}
+SUR = {
+	color = rgb { 101 148 53 }
+	color_ui = rgb { 88 130 44 }
+}
+GYA = {
+	color = rgb { 168 93 144 }
+	color_ui = rgb { 153 87 132 }
+}
 MEX = {
 	color = rgb { 135 35 35 }
 	color_ui = rgb { 115 28 28 }

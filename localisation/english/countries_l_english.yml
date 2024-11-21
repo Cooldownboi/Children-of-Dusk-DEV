@@ -442,19 +442,61 @@ GHA_ADJ: "Ghanian"
 ###North America
 
 #Mexico
- MEX:0 "Holy People's Republic of Mexico"
- MEX_DEF:0 "the Holy People's Republic of Mexico"
- MEX_ADJ:0 "Mexican"
+MEX:0 "Holy People's Republic of Mexico"
+MEX_DEF:0 "the Holy People's Republic of Mexico"
+MEX_ADJ:0 "Mexican"
  
 #Northern Mexico
- NMX:0 "United North Mexican States"
- NMX_DEF:0 "the United North Mexican States"
- NMX_ADJ:0 "Mexican"
+NMX:0 "United North Mexican States"
+NMX_DEF:0 "the United North Mexican States"
+NMX_ADJ:0 "Mexican"
 
 #United States
 USA: "United States of America"
 USA_DEF: "the United States of America"
 USA_ADJ: "American"
+
+###South America
+
+#Suriname
+SUR:0 "Suriname"
+SUR_DEF:0 "the Suriname"
+SUR_ADJ:0 "Surinamese"
+ 
+#Guyana
+GYA:0 "Guyana"
+GYA_DEF:0 "the Guyana"
+GYA_ADJ:0 "Guyanese"
+
+#Venezuela
+VEN:0 "Venezuela"
+VEN_DEF:0 "the Venezuela"
+VEN_ADJ:0 "Venezuelan"
+
+#Colombia
+COL:0 "Colombia"
+COL_DEF:0 "the Colombia"
+COL_ADJ:0 "Colombian"
+
+#Peru
+PRU:0 "Northern Peru"
+PRU_DEF:0 "the Northern Peru"
+PRU_ADJ:0 "Peruvian"
+
+#Andeania
+AND:0 "Worker's Plurinational Federation of Andeania"
+AND_DEF:0 "the Worker's Plurinational Federation of Andeania"
+AND_ADJ:0 "Andeanian"
+
+#Ecuador
+ECU:0 "Ecuador"
+ECU_DEF:0 "the Ecuador"
+ECU_ADJ:0 "Ecuadorian"
+
+#Brazil
+BRA:0 "Brazil"
+BRA_DEF:0 "the Brazil"
+BRA_ADJ:0 "Brazilian"
 
 ############
 ### ASIA ###
