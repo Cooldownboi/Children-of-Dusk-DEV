@@ -395,3 +395,47 @@ CAB = {
 	color = rgb { 119 55 13 }
 	color_ui = rgb { 149 85 43 }
 }
+SUD = {
+	color = rgb { 236 135 135 }
+	color_ui = rgb { 236 135 135 }
+}
+SSD = {
+	color = rgb { 210 73 73 }
+	color_ui = rgb { 210 73 73 }
+}
+ERI = {
+	color = rgb { 129 40 40 }
+	color_ui = rgb { 129 40 40 }
+}
+EGY = {
+	color = rgb { 242 225 193 }
+	color_ui = rgb { 242 225 193 }
+}
+ALG = {
+	color = rgb { 187 104 37 }
+	color_ui = rgb { 187 104 37 }
+}
+MOR = {
+	color = rgb { 185 166 127 }
+	color_ui = rgb { 185 166 127 }
+}
+NGA = {
+	color = rgb { 68 99 71 }
+	color_ui = rgb { 68 99 71 }
+}
+GNA = {
+	color = rgb { 118 70 92 }
+	color_ui = rgb { 118 70 92 }
+}
+SIE = {
+	color = rgb { 95 120 84 }
+	color_ui = rgb { 95 120 84 }
+}
+LIB = {
+	color = rgb { 255 254 191 }
+	color_ui = rgb { 255 254 191 }
+}
+GHA = {
+	color = rgb { 255 135 243 }
+	color_ui = rgb { 255 135 243 }
+}

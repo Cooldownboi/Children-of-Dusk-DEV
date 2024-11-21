@@ -386,8 +386,58 @@ APR_ADJ: "Angolan"
 
 #Cabinda
 CAB: "Cabinda"
-CAB_DEF: "Cabinda"
+CAB_DEF: "the Cabinda"
 CAB_ADJ: "Cabindan"
+
+# Eritrea
+ERI: "Eritrea"
+ERI_DEF: "the Eritrea"
+ERI_ADJ: "Eritrean"
+
+# Sudan
+SUD: "Sudan"
+SUD_DEF: "the Sudan"
+SUD_ADJ: "Sudan"
+
+# South Sudan
+SSD: "South Sudan"
+SSD_DEF: "the South Sudan"
+SSD_ADJ: "Sudan"
+
+# Egypt
+EGY: "People's Republic of Egypt"
+EGY_DEF: "the People's Republic of Egypt"
+EGY_ADJ: "Egyptian"
+
+# Algeria / Maghreb Technate
+ALG: "Maghreb Technate"
+ALG_DEF: "the Maghreb Technate"
+ALG_ADJ: "Maghreb"
+
+# Morocco
+MOR: "Morocco"
+MOR_DEF: "the Morocco"
+MOR_ADJ: "Morocco"
+
+# Nigeria
+NGA: "Nigeria"
+NGA_DEF: "the Nigeria"
+NGA_ADJ: "Nigerian"
+
+# Sierra Leone
+SIE: "Sierra Leone"
+SIE_DEF: "the Sierra Leone"
+SIE_ADJ: "Sierra Leone"
+
+# Liberia
+LIB: "Liberia"
+LIB_DEF: "the Liberia"
+LIB_ADJ: "Liberian"
+
+# Ghana
+GHA: "Ghana"
+GHA_DEF: "the Ghana"
+GHA_ADJ: "Ghanian"
 
 ###North America
 

@@ -43,6 +43,9 @@ puppet = ETH
 puppet = SOD
 puppet = SOM
 puppet = DJI
+puppet = SUD
+puppet = SSD
+puppet = ERI
 
 create_faction = GLOBAL_HEGEMONY_PACT_FACTION
 add_to_faction = MON
@@ -55,3 +58,6 @@ add_to_faction = ETH
 add_to_faction = SOD
 add_to_faction = SOM
 add_to_faction = DJI
+add_to_faction = ERI
+add_to_faction = SUD
+add_to_faction = SSD
