@@ -485,7 +485,7 @@
  STATE_484:0 "Baja California"
  STATE_485:0 "Guerrero"
  STATE_486:0 "Meta"
- STATE_487:0 "Santa Cruz"
+ STATE_487:0 "Central Santa Cruz"
  STATE_488:0 "Bolivar"
  STATE_489:0 "Zulia"
  STATE_490:0 "Pastaza"
@@ -1055,3 +1055,4 @@
  STATE_1054: "Los Angeles"
  STATE_1055: "San Francisco"
  STATE_1056: "Northern Ucayali"
+ STATE_1057: "Northern Santa Cruz"

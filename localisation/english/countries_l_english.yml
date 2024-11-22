@@ -488,6 +488,31 @@ AND:0 "Worker's Plurinational Federation of Andeania"
 AND_DEF:0 "the Worker's Plurinational Federation of Andeania"
 AND_ADJ:0 "Andeanian"
 
+#Bolivia
+BOL:0 "Bolivian Ecostate"
+BOL_DEF:0 "the Bolivian Ecostate"
+BOL_ADJ:0 "Bolivian"
+
+#Argentina
+ARG:0 "Argentine People's Confederation"
+ARG_DEF:0 "the Argentine People's Confederation"
+ARG_ADJ:0 "Argentinean"
+
+#Chile
+CHL:0 "Chile"
+CHL_DEF:0 "the Chile"
+CHL_ADJ:0 "Chilean"
+
+#Uruguay
+URG:0 "Blessed People's Republic of Uruguay"
+URG_DEF:0 "the Blessed People's Republic of Uruguay"
+URG_ADJ:0 "Uruguayan"
+
+#Paraguay
+PAR:0 "Paraguay"
+PAR_DEF:0 "the Paraguay"
+PAR_ADJ:0 "Paraguayan"
+
 #Ecuador
 ECU:0 "Ecuador"
 ECU_DEF:0 "the Ecuador"

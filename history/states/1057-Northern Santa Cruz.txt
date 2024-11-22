@@ -1,0 +1,23 @@
+state={
+	id=1057
+	name="STATE_1057"
+
+	history = {
+		owner = AND
+		add_core_of = AND
+		add_core_of = BOL
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		5188 12917 
+	}
+
+	manpower=51462
+	state_category = pastoral
+	local_supplies=0.000
+}

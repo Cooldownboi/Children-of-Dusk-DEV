@@ -11,8 +11,8 @@ state = {
 	state_category = city
 
 	history = {
-
-		owner = BOL
+		owner = AND
+		add_core_of = AND
 		add_core_of = BOL
 
 		buildings = {
@@ -29,7 +29,6 @@ state = {
 		victory_points = {
 			12930 10 
 		}
-
 	}
 
 	provinces = {

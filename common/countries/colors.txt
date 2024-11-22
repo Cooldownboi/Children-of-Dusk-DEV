@@ -1,4 +1,24 @@
 #reload countrycolors
+PAR = {
+	color = rgb { 92 78 32 }
+	color_ui = rgb { 71 60 24 }
+}
+URG = {
+	color = rgb { 34 168 149 }
+	color_ui = rgb { 26 153 135 }
+}
+CHL = {
+	color = rgb { 95 58 101 }
+	color_ui = rgb { 72 43 77 }
+}
+ARG = {
+	color = rgb { 177 84 136 }
+	color_ui = rgb { 138 62 105 }
+}
+BOL = {
+	color = rgb { 237 173 109 }
+	color_ui = rgb { 209 148 88 }
+}
 AND = {
 	color = rgb { 163 41 49 }
 	color_ui = rgb { 138 29 36 }
