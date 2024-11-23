@@ -499,3 +499,31 @@ GHA = {
 	color = rgb { 255 135 243 }
 	color_ui = rgb { 255 135 243 }
 }
+INS = {
+	color = rgb { 255 255 119 }
+	color_ui = rgb { 255 255 119 }
+}
+PNG = {
+	color = rgb { 156 142 134 }
+	color_ui = rgb { 156 142 134 }
+}
+SIN = {
+	color = rgb { 155 41 81 }
+	color_ui = rgb { 155 41 81 }
+}
+PHI = {
+	color = rgb { 81 105 121 }
+	color_ui = rgb { 81 105 121 }
+}
+SOL = {
+	color = rgb { 241 96 100 }
+	color_ui = rgb { 241 96 100 }
+}
+AST = {
+	color = rgb { 56 104 104 }
+	color_ui = rgb { 56 104 104 }
+}
+NZL = {
+	color = rgb { 97 71 129 }
+	color_ui = rgb { 97 71 129 }
+}

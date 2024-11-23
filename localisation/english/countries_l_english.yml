@@ -456,6 +456,8 @@ USA: "United States of America"
 USA_DEF: "the United States of America"
 USA_ADJ: "American"
 
+LEAGUE_OF_FREE_NATIONS_FACTION: "League of Free Nations"
+
 ###South America
 
 #Suriname
@@ -487,6 +489,8 @@ PRU_ADJ:0 "Peruvian"
 AND:0 "Worker's Plurinational Federation of Andeania"
 AND_DEF:0 "the Worker's Plurinational Federation of Andeania"
 AND_ADJ:0 "Andeanian"
+
+HAVANA_INTERNATIONALE_FACTION: "Havana Internationale"
 
 #Bolivia
 BOL:0 "Bolivian Ecostate"
@@ -613,6 +617,45 @@ LAO_ADJ: "Laos"
 MLS: "Malaysia"
 MLS_DEF: "the Malaysia"
 MLS_ADJ: "Malaysian"
+
+# Indonesia
+INS: "Indonesia"
+INS_DEF: "the Indonesia"
+INS_ADJ: "Indonesian"
+
+ASEAN_FACTION: "Association of Southeast Asian Nations"
+ASEAN_FACTION_LONG: "Association of Southeast Asian Nations"
+ASEAN_FACTION_SHORT: "ASEAN"
+
+# Papua New Guinea
+PNG: "Papua New Guinea"
+PNG_DEF: "the Papua New Guinea"
+PNG_ADJ: "Papua"
+
+# Singapore
+SIN: "Singapore"
+SIN_DEF: "the Singapore"
+SIN_ADJ: "Singapore"
+
+# Philippines
+PHI: "Philippines"
+PHI_DEF: "the Philippines"
+PHI_ADJ: "Philippinean"
+
+# Solomon Islands
+SOL: "Solomon Islands"
+SOL_DEF: "the Solomon Islands"
+SOL_ADJ: "Solomonian"
+
+# Australia
+AST: "Australia"
+AST_DEF: "the Australia"
+AST_ADJ: "Australian"
+
+# New Zealand
+NZL: "New Zealand"
+NZL_DEF: "the New Zealand"
+NZL_ADJ: "Zealand"
 
 # Afghanistan
 AFG: "Afghanistan"

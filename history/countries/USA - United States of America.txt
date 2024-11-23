@@ -1,0 +1,57 @@
+capital = 1019
+
+#oob = ""
+
+#recruit_character = FATES_character
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+}
+
+if = {
+	limit = {
+		NOT = { has_dlc = "By Blood Alone" }
+	}
+	set_technology = {
+		early_fighter = 1
+		early_bomber = 1
+		naval_bomber1 = 1
+	}
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = liberal
+	last_election = "2048.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	corporatocracy = 35
+	communist = 0
+	liberal = 45
+	authortarian = 2
+	despotic = 8
+	divinic = 10
+}
+
+create_faction = LEAGUE_OF_FREE_NATIONS_FACTION
+add_to_faction = USA
+add_to_faction = ENG
+add_to_faction = IRE
+add_to_faction = NMX
+add_to_faction = ICE
+add_to_faction = NOR
+add_to_faction = SWE
+add_to_faction = FIN
+add_to_faction = AST
+add_to_faction = NZL

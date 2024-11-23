@@ -243,16 +243,18 @@ set_convoys = 15
 }
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1934.4.19"
+	ruling_party = communist
+	last_election = "2046.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 44
-	neutrality = 53
-	communism = 3
-	fascism = 0
+	corporatocracy = 0
+	communist = 100
+	liberal = 0
+	authortarian = 0
+	despotic = 0
+	divinic = 0
 }
 
 1939.1.1 = {
