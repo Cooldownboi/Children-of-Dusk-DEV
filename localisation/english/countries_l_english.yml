@@ -518,6 +518,16 @@ ECU:0 "Ecuador"
 ECU_DEF:0 "the Ecuador"
 ECU_ADJ:0 "Ecuadorian"
 
+#Guatemala
+GUA:0 "Guatemala"
+GUA_DEF:0 "the Guatemala"
+GUA_ADJ:0 "Guatemalan"
+
+#ELZN
+ELZ:0 "ELZN"
+ELZ_DEF:0 "the ELZN"
+ELZ_ADJ:0 "ELZNESE"
+
 #Brazil
 BRA:0 "Brazil"
 BRA_DEF:0 "the Brazil"

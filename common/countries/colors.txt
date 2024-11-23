@@ -1,4 +1,12 @@
 #reload countrycolors
+ELZ = {
+	color = rgb { 85 38 45 }
+	color_ui = rgb { 54 22 27 }
+}
+GUA = {
+	color = rgb { 41 82 29 }
+	color_ui = rgb { 33 66 23 }
+}
 PAR = {
 	color = rgb { 92 78 32 }
 	color_ui = rgb { 71 60 24 }
