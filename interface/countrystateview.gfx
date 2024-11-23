@@ -823,59 +823,6 @@ spriteTypes = {
  #  #  # ### #  #  # 
  #  #  # ### #  #  # 
   ## ##  ###  ## ##  
-              
-
-### BELGIUM ###
-
-	spriteType = {
-		name = "GFX_modifiers_COG_state_loyal_to_free_congo"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_state_loyal_to_free_congo.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_COG_state_loyal_to_belgium"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_state_loyal_to_belgium.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_COG_rwandan_separatism"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_rwandan_separatism.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_COG_katanga_separatism"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_katanga_separatism.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_COG_kasai_separatism"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_kasai_separatism.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_COG_burundian_separatism"
-		textureFile = "gfx/interface/state_modifiers/modifiers_COG_burundian_separatism.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_BEL_eben_emael_raided"
-		textureFile = "gfx/interface/state_modifiers/modifiers_BEL_eben_emael_raided.dds"
-	}
-
-### GERMANY ###
-
-	spriteType = {
-		name = "GFX_modifiers_GER_blitzkrieg"
-		textureFile = "gfx/interface/state_modifiers/modifiers_GER_blitzkrieg.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_GER_lokot_autonomy"
-		textureFile = "gfx/interface/state_modifiers/modifiers_GER_lokot_autonomy.dds"
-	}
-	spriteType = {
-		name = "GFX_modifiers_GER_socialist_movement"
-		textureFile = "gfx/interface/state_modifiers/modifiers_GER_socialist_movement.dds"
-	}
-
-### Misc ###
-
-	spriteType = {
-		name = "GFX_modifiers_radiation"
-		textureFile = "gfx/interface/state_modifiers/modifiers_radiation.dds"
-	}
+            
 
 }
