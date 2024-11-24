@@ -2,13 +2,14 @@ state={
 	id=858
 	name="STATE_858"
 	provinces={
-		5006 8030 10870 12768 
+		8073 10786 13439
 	}
 	history = {
-		owner = SAU
+		owner = AMR
+		add_core_of = AMR
 		add_core_of = SAU
 	}
-	manpower=69
+	manpower=120000
 	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

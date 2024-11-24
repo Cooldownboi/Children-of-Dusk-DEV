@@ -675,7 +675,7 @@ BAL_ADJ: "Balochian"
 # Sindh
 SID: "Sindh"
 SID_DEF: "the Sindh"
-SID_ADJ: "Sindhian"
+SID_ADJ: "Sindh"
 
 # West Punjab
 WPJ: "West Punjab"
@@ -696,3 +696,48 @@ RAJ_ADJ: "Indian"
 UCI: "United Communes of India"
 UCI_DEF: "the United Communes of India"
 UCI_ADJ: "Indian"
+
+# Black Sands Corporation
+BSC: "Black Sands Corporation"
+BSC_DEF: "the Black Sands Corporation"
+BSC_ADJ: "Black Sands"
+
+# Saudi Arabia
+SAU: "House of Saud"
+SAU_DEF: "the House of Saud"
+SAU_ADJ: "Arabian"
+
+# Arabian Migrant Revolt
+AMR: "Arabian Migrant Revolt"
+AMR_DEF: "the Arabian Migrant Revolt"
+AMR_ADJ: "Arabian"
+
+# North Arab Republics
+NRB: "North Arabian Republic"
+NRB_DEF: "the North Arabian Republic"
+NRB_ADJ: "Arabian"
+
+# UAE
+UAE: "People's Arab Republics"
+UAE_DEF: "the People's Arab Republics"
+UAE_ADJ: "Arabian"
+
+# Yemen
+YEM: "Yemen"
+YEM_DEF: "the Yemen"
+YEM_ADJ: "Yemeni"
+
+# Hadramut
+HAD: "Hadramut"
+HAD_DEF: "the Hadramut"
+HAD_ADJ: "Hadramuti"
+
+# Aden
+ADE: "Aden"
+ADE_DEF: "the Aden"
+ADE_ADJ: "Adeni"
+
+# Oman
+OMA: "Oman"
+OMA_DEF: "the Oman"
+OMA_ADJ: "Omani"

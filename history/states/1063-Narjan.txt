@@ -1,0 +1,16 @@
+state={
+	id=1063
+	name="STATE_1063"
+	history = {
+		owner = AMR
+		add_core_of = AMR
+		add_core_of = SAU
+	}
+	provinces={
+		5006 8030 13436 13437 13438
+	}
+	manpower=1550000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,7 +1,7 @@
 state = {
 	id = 859
 	name = "STATE_859"
-	manpower = 440000
+	manpower = 4900000
 
 	resources = {
 		oil = 3.000
@@ -9,7 +9,8 @@ state = {
 
 	history = {
 
-		owner = SAU
+		owner = BSC
+		add_core_of = BSC
 		add_core_of = SAU
 
 		victory_points = {
@@ -17,7 +18,7 @@ state = {
 		}
 
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			12702 = {
 				naval_base = 6
 			}
@@ -25,7 +26,7 @@ state = {
 	}
 	
 	provinces = {
-		1955 10791 10850 12702 
+		1955 5024 10791 10850 12702 12749 13441
 	}
 	state_category = rural
 	buildings_max_level_factor = 1.000

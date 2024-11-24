@@ -527,3 +527,39 @@ NZL = {
 	color = rgb { 97 71 129 }
 	color_ui = rgb { 97 71 129 }
 }
+SAU = {
+	color = rgb { 96 118 87 }
+	color_ui = rgb { 96 118 87 }
+}
+YEM = {
+	color = rgb { 184 174 86 }
+	color_ui = rgb { 184 174 86 }
+}
+HAD = {
+	color = rgb { 191 185 138 }
+	color_ui = rgb { 191 185 138 }
+}
+ADE = {
+	color = rgb { 123 105 24 }
+	color_ui = rgb { 123 105 24 }
+}
+NRB = {
+	color = rgb { 155 209 113 }
+	color_ui = rgb { 155 209 113 }
+}
+AMR = {
+	color = rgb { 234 179 92 }
+	color_ui = rgb { 234 179 92 }
+}
+UAE = {
+	color = rgb { 230 90 90 }
+	color_ui = rgb { 230 90 90 }
+}
+BSC = {
+	color = rgb { 236 142 142 }
+	color_ui = rgb { 236 142 142 }
+}
+OMA = {
+	color = rgb { 198 203 142 }
+	color_ui = rgb { 198 203 142 }
+}
