@@ -2,7 +2,7 @@
 state={
 	id=291
 	name="STATE_291"
-	manpower = 2044165
+	manpower = 4044165
 	
 	state_category = town
 	
@@ -15,15 +15,7 @@ state={
 		victory_points = {
 			2097 10
 		}
-		victory_points = {
-			7994 1
-		}
-		victory_points = {
-			8001 3
-		}
-		victory_points = {
-			2089 5 
-		}
+		
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -38,7 +30,7 @@ state={
 	}
 
 	provinces={
-		78 1600 1938 2004 2089 2097 3795 7977 7994 8001 8123 10793 10876 12046 12372 12726 12839 12855 
+		1600 1938 2097 3795 8123 10793 12046 12372 
 	}
 
 	local_supplies=6.0 

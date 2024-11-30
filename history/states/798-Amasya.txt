@@ -2,14 +2,14 @@ state={
 	id=798
 	name="STATE_798"
 	provinces={
-		919 3807 3862 3964 11826 11844 
+		919 3807 3862 3964 6978 9871 11826 11839 11897 
 	}
 	manpower = 531172
 	
 	state_category = rural
 
 	history= {
-		owner = TUR
+		owner = ANT
 		victory_points = {
 			3862 3
 		}
@@ -20,6 +20,7 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = TUR
+		add_core_of = ANT
 	}
 
 	local_supplies=0.0 

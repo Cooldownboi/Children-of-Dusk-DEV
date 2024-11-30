@@ -3,10 +3,10 @@ state={
 	name="STATE_685"
 	manpower = 39467
 	
-	state_category = enclave
+	state_category = town
 
 	history={
-		owner = USA
+		owner = PAN
 		victory_points = {
 			7617 5 
 		}

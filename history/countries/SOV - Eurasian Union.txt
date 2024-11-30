@@ -189,9 +189,16 @@ add_to_faction = DEN
 add_to_faction = PER
 add_to_faction = AFG
 add_to_faction = BAL
+add_to_faction = KUW
+add_to_faction = BPR
 
 puppet = POL
 puppet = CZE
+puppet = BPR
+puppet = PER
+puppet = KUW
+puppet = BAL
+puppet = AFG
 
 ### VARIANTS ###
 # 1936 Start #

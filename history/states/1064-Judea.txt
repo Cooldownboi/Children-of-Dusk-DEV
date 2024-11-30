@@ -1,0 +1,19 @@
+state={
+	id=1064
+	name="STATE_1064"
+	history = {
+		owner = JUD
+		add_core_of = JUD
+
+		victory_points = {
+			1086 1 
+		}
+	}
+	provinces={
+		1 1015 1086 7176 11970
+	}
+	manpower=1550000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

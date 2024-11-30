@@ -563,3 +563,95 @@ OMA = {
 	color = rgb { 198 203 142 }
 	color_ui = rgb { 198 203 142 }
 }
+JOR = {
+	color = rgb { 161 147 10 }
+	color_ui = rgb { 161 147 10 }
+}
+JOR = {
+	color = rgb { 197 188 154 }
+	color_ui = rgb { 197 188 154 }
+}
+ISR = {
+	color = rgb { 103 159 199 }
+	color_ui = rgb { 103 159 199 }
+}
+JUD = {
+	color = rgb { 58 70 118 }
+	color_ui = rgb { 58 70 118 }
+}
+LEB = {
+	color = rgb { 142 142 142 }
+	color_ui = rgb { 142 142 142 }
+}
+IRQ = {
+	color = rgb { 208 191 123 }
+	color_ui = rgb { 208 191 123 }
+}
+KUW = {
+	color = rgb { 189 196 231 }
+	color_ui = rgb { 189 196 231 }
+}
+KUR = {
+	color = rgb { 255 255 156 }
+	color_ui = rgb { 255 255 156 }
+}
+TUR = {
+	color = rgb { 157 210 124 }
+	color_ui = rgb { 157 210 124 }
+}
+BPR = {
+	color = rgb { 159 123 198 }
+	color_ui = rgb { 159 123 198 }
+}
+ANT = {
+	color = rgb { 248 176 126 }
+	color_ui = rgb { 248 176 126 }
+}
+CAN = {
+	color = rgb { 203 124 62 }
+	color_ui = rgb { 203 124 62 }
+}
+CUB = {
+	color = rgb { 176 111 135 }
+	color_ui = rgb { 176 111 135 }
+}
+HAI = {
+	color = rgb { 19 34 117 }
+	color_ui = rgb { 19 34 117 }
+}
+DOM = {
+	color = rgb { 227 136 136 }
+	color_ui = rgb { 227 136 136 }
+}
+ELS = {
+	color = rgb { 53 147 115 }
+	color_ui = rgb { 53 147 115 }
+}
+HON = {
+	color = rgb { 133 234 255 }
+	color_ui = rgb { 133 234 255 }
+}
+NIC = {
+	color = rgb { 179 80 66 }
+	color_ui = rgb { 179 80 66 }
+}
+COS = {
+	color = rgb { 184 140 84 }
+	color_ui = rgb { 184 140 84 }
+}
+PAN = {
+	color = rgb { 86 72 129 }
+	color_ui = rgb { 86 72 129 }
+}
+BAH = {
+	color = rgb { 158 141 131 }
+	color_ui = rgb { 158 141 131 }
+}
+TRI = {
+	color = rgb { 44 97 17 }
+	color_ui = rgb { 44 97 17 }
+}
+BAS = {
+	color = rgb { 252 233 157 }
+	color_ui = rgb { 252 233 157 }
+}

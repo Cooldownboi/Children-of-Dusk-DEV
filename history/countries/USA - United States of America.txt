@@ -46,6 +46,7 @@ set_popularities = {
 
 create_faction = LEAGUE_OF_FREE_NATIONS_FACTION
 add_to_faction = USA
+add_to_faction = CAN
 add_to_faction = ENG
 add_to_faction = IRE
 add_to_faction = NMX

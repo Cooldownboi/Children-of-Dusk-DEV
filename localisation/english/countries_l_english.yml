@@ -458,6 +458,26 @@ USA_ADJ: "American"
 
 LEAGUE_OF_FREE_NATIONS_FACTION: "League of Free Nations"
 
+# Canada
+CAN: "Canada"
+CAN_DEF: "the Canada"
+CAN_ADJ: "Canadian"
+
+# Cuba
+CUB: "Cuba"
+CUB_DEF: "the Cuba"
+CUB_ADJ: "Cuban"
+
+# Haiti
+HAI: "Haiti"
+HAI_DEF: "the Haiti"
+HAI_ADJ: "Haiti"
+
+# Dominican Republic
+DOM: "Dominican Republic"
+DOM_DEF: "the Dominican Republic"
+DOM_ADJ: "Dominican"
+
 ###South America
 
 #Suriname
@@ -536,6 +556,65 @@ ELZ_ADJ:0 "ELZNESE"
 BRA:0 "Brazil"
 BRA_DEF:0 "the Brazil"
 BRA_ADJ:0 "Brazilian"
+
+#Cuba
+CUB:0 "Cuba"
+CUB_DEF:0 "the Cuba"
+CUB_ADJ:0 "Cuban"
+
+#Bahamas
+BAH:0 "Bahamas"
+BAH_DEF:0 "the Bahamas"
+BAH_ADJ:0 "Bahaman"
+
+#Haiti
+HAI:0 "Haiti"
+HAI_DEF:0 "the Haiti"
+HAI_ADJ:0 "Haiti"
+
+#Dominican Republic
+DOM:0 "Dominican Republic"
+DOM_DEF:0 "the Dominican Republic"
+DOM_ADJ:0 "Dominican"
+
+#El Salvador
+ELS:0 "El Salvador"
+ELS_DEF:0 "the El Salvador"
+ELS_ADJ:0 "Salvador"
+
+#Honduras
+HON:0 "Honduras"
+HON_DEF:0 "the Honduras"
+HON_ADJ:0 "Hondura"
+
+#Nicaragua
+NIC:0 "Nicaragua"
+NIC_DEF:0 "the Nicaragua"
+NIC_ADJ:0 "Nicaraguan"
+
+#Costa Rica
+COS:0 "Costa Rica"
+COS_DEF:0 "the Costa Rica"
+COS_ADJ:0 "Costa Rican"
+
+#Panama
+PAN:0 "Panama"
+PAN_DEF:0 "the Panama"
+PAN_ADJ:0 "Panama"
+
+#Antilles
+BAS:0 "Antilles"
+BAS_DEF:0 "the Antilles"
+BAS_ADJ:0 "Antillian"
+
+#Trinidad
+TRI:0 "Trinidad and Tobago"
+TRI_DEF:0 "Trinidad and Tobago"
+TRI_ADJ:0 "Trinidadian and Tobagonian"
+
+CRC:0 "Antilles"
+CRC_DEF:0 "the Antilles"
+CRC_ADJ:0 "Antillean"
 
 ############
 ### ASIA ###
@@ -741,3 +820,58 @@ ADE_ADJ: "Adeni"
 OMA: "Oman"
 OMA_DEF: "the Oman"
 OMA_ADJ: "Omani"
+
+# Lebanon
+LEB: "Lebanon"
+LEB_DEF: "the Lebanon"
+LEB_ADJ: "Lebanon"
+
+# Jordan
+JOR: "Jordan"
+JOR_DEF: "the Jordan"
+JOR_ADJ: "Jordan"
+
+# Israel
+ISR: "Israel"
+ISR_DEF: "the Israel"
+ISR_ADJ: "Israeli"
+
+# Judah
+JUD: "Judah"
+JUD_DEF: "the Judah"
+JUD_ADJ: "Judah"
+
+# Syria
+SYR: "Syria"
+SYR_DEF: "the Syria"
+SYR_ADJ: "Syrian"
+
+# Iraq
+IRQ: "Iraq"
+IRQ_DEF: "the Iraq"
+IRQ_ADJ: "Iraqi"
+
+# Kuwait
+KUW: "Kuwait"
+KUW_DEF: "the Kuwait"
+KUW_ADJ: "Kuwaitian"
+
+# Kurdistan
+KUR: "Kurdistan"
+KUR_DEF: "the Kurdistan"
+KUR_ADJ: "Kurdih"
+
+# Basra Protectorate
+BPR: "Basra Protectorate"
+BPR_DEF: "the Basra Protectorate"
+BPR_ADJ: "Basra"
+
+# Turkey
+TUR: "Republic of Turkey"
+TUR_DEF: "the Turkey"
+TUR_ADJ: "Turkish"
+
+# Anatolia
+ANT: "Anatolia"
+ANT_DEF: "the Anatolia"
+ANT_ADJ: "Anatolian"

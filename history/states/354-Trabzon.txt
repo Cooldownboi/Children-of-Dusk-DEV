@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = TUR
+		owner = ANT
 		
 		victory_points = {
 			9932 15
@@ -21,6 +21,9 @@ state={
 		victory_points = {
 			9868 1
 		}
+		victory_points = {
+			11853 3
+		}
 		buildings = {
 			infrastructure = 2
 			9932 = {
@@ -28,6 +31,7 @@ state={
 			}
 		}
 		add_core_of = TUR
+		add_core_of = ANT
 	}
 
 	provinces={

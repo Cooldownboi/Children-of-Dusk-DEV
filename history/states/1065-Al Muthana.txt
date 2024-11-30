@@ -1,0 +1,32 @@
+
+state={
+	id=1065
+	name="STATE_1065"
+
+	history={
+		owner = BPR
+		add_core_of = BPR
+		add_core_of = IRQ
+		
+		victory_points = {
+			8001 3
+		}
+		victory_points = {
+			2089 5 
+		}
+
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2089 8001 10876 12879
+	}
+	manpower=823537
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=9.0 
+}
