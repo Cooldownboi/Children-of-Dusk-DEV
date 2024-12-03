@@ -29,7 +29,7 @@ guiTypes = {
 		hide_animation_type = accelerated
 		animation_time = 300
 		orientation = lower_left
-		size = { width=463 height=653 }
+		size = { width=471 height=653 }
 		
 		containerWindowType = {
 			name = "state_info_window"
@@ -45,11 +45,11 @@ guiTypes = {
 						
 			instantTextboxType = {
 				name = "state_name"
-				position = { x = 18 y = 32 }
+				position = { x = 15 y = 29 }
 				textureFile = ""
 				font = "hoi_36header"
 				text = "STATE_NAME_TEST"
-				maxWidth = 330
+				maxWidth = 336
 				maxHeight = 30
 				format = center
 			}
@@ -57,20 +57,20 @@ guiTypes = {
 			gridBoxType = {
 				name = "state_building_entries"
 				position = { x = 155 y = 73 }
-				size = { width = 300 height = 84 }
+				size = { width = 310 height = 84 }
 				format = "UPPER_LEFT"
-				slotsize = { width = 60 height = 52 }
+				slotsize = { width = 62 height = 84 }
 				max_slots_horizontal = 5
 				max_slots_vertical = 1
 			}
 			
 			instantTextboxType = {
 				name = "shared_slot_count"
-				position = { x = 153 y = 164 }
+				position = { x = 154 y = 164 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = "SLOTS"
-				maxWidth = 304
+				maxWidth = 286
 				maxHeight = 30
 				format = center
 				fixedsize = yes
@@ -78,10 +78,10 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "state_shared_slot_building_entries"
-				position = { x = 152 y = 205 }
-				size = { width = 480 height = 90%% }
+				position = { x = 154 y = 188 }
+				size = { width = 310 height = 90%% }
 				format = "UPPER_LEFT"
-				slotsize = { width = 61 height = 50 }
+				slotsize = { width = 62 height = 48 }
 				max_slots_horizontal = 5
 				max_slots_vertical = 5
 			}
@@ -94,7 +94,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "victory_points"
-				position = { x = 359 y = 40 }
+				position = { x = 363 y = 40 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -105,7 +105,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "claims"
-				position = { x = 15 y = 140 }
+				position = { x = 15 y = 164 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -168,7 +168,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "state_resources"
-				position = { x= 15 y=344 }
+				position = { x= 15 y=404 }
 				size = { width=135 height=99 }
 				
 				
@@ -192,13 +192,13 @@ guiTypes = {
 			iconType ={
 				name ="population_icon"
 				spriteType = "GFX_population_icon"
-				position = { x = 20 y = 203 }
+				position = { x = 18 y = 254 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			instantTextboxType = {
 				name = "manpower"
-				position = { x = 61 y = 210 }
+				position = { x = 61 y = 258 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				maxWidth = 80
@@ -208,7 +208,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "resistance_container"
-				position = { x = 20 y = 241}	
+				position = { x = 20 y = 291}	
 				size = { width = 129 height = 100 }
 				
 				iconType ={
@@ -406,10 +406,10 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "province_building_entries"
-				position = { x = 197 y = -129 }
+				position = { x = 140 y = -137 }
 				size = { width = 480 height = 90%% }
 				format = "UPPER_LEFT"
-				slotsize = { width = 61 height = 84 }
+				slotsize = { width = 62 height = 84 }
 				max_slots_horizontal = 4
 				max_slots_vertical = 1
 			}
@@ -427,7 +427,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "scorched_earth_state_button"
-			position = { x = -36 y = 156 }
+			position = { x = -29 y = 163 }
 			quadTextureSprite ="GFX_scorched_earth_state"
 			buttonFont = "Main_14_black"
 			Orientation = "UPPER_RIGHT"
@@ -473,7 +473,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "state_building_entry"
 		position = { x=0 y=0 }
-		size = { width=140 height= 70 }
+		size = { width=62 height= 84 }
 		clipping = no
 		
 		background = {
@@ -513,8 +513,8 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "state_shared_slot_building_entry"
-		position = { x=4 y=-15 }
-		size = { width=70 height= 70 }
+		position = { x=1 y=1 }
+		size = { width=62 height= 48 }
 		clipping = no
 
 		iconType = {
