@@ -109,7 +109,7 @@ guiTypes = {
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
-				maxWidth = 134
+				maxWidth = 133
 				maxHeight = 30
 				fixedsize = yes
 				format = center				
@@ -129,7 +129,7 @@ guiTypes = {
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
-				maxWidth = 134
+				maxWidth = 133
 				maxHeight = 30
 				fixedsize = yes
 				format = center
@@ -168,8 +168,8 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "state_resources"
-				position = { x= 15 y=404 }
-				size = { width=135 height=99 }
+				position = { x= 17 y=412 }
+				size = { width=129 height=105 }
 				
 				
 				background = {
@@ -208,8 +208,8 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "resistance_container"
-				position = { x = 20 y = 291}	
-				size = { width = 129 height = 100 }
+				position = { x = 17 y = 296}	
+				size = { width = 129 height = 106 }
 				
 				iconType ={
 					name ="state_resistance_icon"
